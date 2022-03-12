@@ -13,14 +13,16 @@ set $mod Mod4
 #-------------------------custom
 #custome lock screen
 set $i3lockwall i3lock -i /home/sugan/Pictures/wallpaper/symm-tn.png -t
-bindsym $mod+Ctrl+Shift+l exec --no-startup-id $i3lockwall
+bindsym $mod+Ctrl+Shift+l exec --no-startup-id i3lock-fancy -p
 
+exec_always --no-startup-id spectacle
+exec_always --no-startup-id greenclip daemon
 #polibar 
 exec_always --no-startup-id bash /home/sugan/.config/polybar/material/preview.sh
 #dunst
 exec_always --no-startup-id dunst
 #wallpaper
-exec --no-startup-id feh --no-fehbg --bg-fill '/home/sugan/Pictures/wallpaper/1957169.jpg'
+exec --no-startup-id feh --no-fehbg --bg-fill '/home/sugan/Documents/wallpaper/spiderman.jpg'
 
 #floating window
 # floating pop up automatically
@@ -32,7 +34,7 @@ for_window [window_role="task_dialog"] floating enable
 
 # Font for window titles. Will also be used by the bar unless a different font
 # is used in the bar {} block below.
-font pango:Noto Sans 8
+font pango:Noto Sans 0
 
 # This font is widely installed, provides lots of unicode glyphs, right-to-left
 # text rendering and scalability on retina/hidpi displays (thanks to pango).
@@ -70,6 +72,8 @@ bindsym $mod+Return exec alacritty
 # kill focused window
 bindsym $mod+Shift+q kill
 
+#clipboard
+bindsym $mod+Shift+v exec "rofi -modi 'clipboard:greenclip print' -show clipboard -run-command '{cmd}'"
 # start dmenu (a program launcher)
 # bindsym $mod+d exec --no-startup-id dmenu_run
 bindsym $mod+d exec "rofi -modi window,drun,run -show drun -sidebar-mode -terminal termite -color-window '#000000, #000000, #000000' -color-normal '#000000, #b3e774, #000000, #b3e774, #000000' -color-active '#000000, #b3e774, #000000, #b3e774, #000000' -color-urgent '#000000, #b3e774, #000000, #b3e774, #000000'"
@@ -156,70 +160,70 @@ bindsym $mod+9 workspace number $ws9
 bindsym $mod+0 workspace number $ws10
 
 # move focused container to workspace
-bindsym $mod+Shift+1 move container to workspace number $ws1
-bindsym $mod+Shift+2 move container to workspace number $ws2
-bindsym $mod+Shift+3 move container to workspace number $ws3
-bindsym $mod+Shift+4 move container to workspace number $ws4
-bindsym $mod+Shift+5 move container to workspace number $ws5
-bindsym $mod+Shift+6 move container to workspace number $ws6
-bindsym $mod+Shift+7 move container to workspace number $ws7
-bindsym $mod+Shift+8 move container to workspace number $ws8
-bindsym $mod+Shift+9 move container to workspace number $ws9
-bindsym $mod+Shift+0 move container to workspace number $ws10
+bindsym $mod+shift+1 move container to workspace number $ws1
+bindsym $mod+shift+2 move container to workspace number $ws2
+bindsym $mod+shift+3 move container to workspace number $ws3
+bindsym $mod+shift+4 move container to workspace number $ws4
+bindsym $mod+shift+5 move container to workspace number $ws5
+bindsym $mod+shift+6 move container to workspace number $ws6
+bindsym $mod+shift+7 move container to workspace number $ws7
+bindsym $mod+shift+8 move container to workspace number $ws8
+bindsym $mod+shift+9 move container to workspace number $ws9
+bindsym $mod+shift+0 move container to workspace number $ws10
 
 # reload the configuration file
-bindsym $mod+Shift+c reload
+bindsym $mod+shift+c reload
 # restart i3 inplace (preserves your layout/session, can be used to upgrade i3)
-bindsym $mod+Shift+r restart
-# exit i3 (logs you out of your X session)
-bindsym $mod+Shift+e exec "i3-nagbar -t warning -m 'You pressed the exit shortcut. Do you really want to exit i3? This will end your X session.' -B 'Yes, exit i3' 'i3-msg exit'"
+bindsym $mod+shift+r restart
+# exit i3 (logs you out of your x session)
+bindsym $mod+shift+e exec "i3-nagbar -t warning -m 'you pressed the exit shortcut. do you really want to exit i3? this will end your x session.' -b 'yes, exit i3' 'i3-msg exit'"
 
 # resize window (you can also use the mouse for that)
 mode "resize" {
-        # These bindings trigger as soon as you enter the resize mode
+        # these bindings trigger as soon as you enter the resize mode
 
-        # Pressing left will shrink the window’s width.
-        # Pressing right will grow the window’s width.
-        # Pressing up will shrink the window’s height.
-        # Pressing down will grow the window’s height.
+        # pressing left will shrink the window’s width.
+        # pressing right will grow the window’s width.
+        # pressing up will shrink the window’s height.
+        # pressing down will grow the window’s height.
         bindsym h resize shrink width 10 px or 10 ppt
         bindsym j resize grow height 10 px or 10 ppt
         bindsym k resize shrink height 10 px or 10 ppt
         bindsym l resize grow width 10 px or 10 ppt
 
         # same bindings, but for the arrow keys
-        bindsym Left resize shrink width 10 px or 10 ppt
-        bindsym Down resize grow height 10 px or 10 ppt
-        bindsym Up resize shrink height 10 px or 10 ppt
-        bindsym Right resize grow width 10 px or 10 ppt
+        bindsym left resize shrink width 10 px or 10 ppt
+        bindsym down resize grow height 10 px or 10 ppt
+        bindsym up resize shrink height 10 px or 10 ppt
+        bindsym right resize grow width 10 px or 10 ppt
 
-        # back to normal: Enter or Escape or $mod+r
-        bindsym Return mode "default"
-        bindsym Escape mode "default"
+        # back to normal: enter or escape or $mod+r
+        bindsym return mode "default"
+        bindsym escape mode "default"
         bindsym $mod+r mode "default"
 }
 
 bindsym $mod+r mode "resize"
 hide_edge_borders smart
-# Start i3bar to display a workspace bar (plus the system information i3status
+# start i3bar to display a workspace bar (plus the system information i3status
 # finds out, if available)
 # bar {
 #         status_command i3status --config ~/.config/i3/i3status.conf
 #         tray_output none
 #         # mode hide
 #         # tray_output none
-#         font pango:DejaVu Sans Mono 10
+#         font pango:dejavu sans mono 10
 #         separator_symbol |
 # }
 
 
 # resize window (you can also use the mouse for that)
 mode "resize" {
-        bindsym Left resize shrink width 5 px or 5 ppt
-        bindsym Down resize grow height 5 px or 5 ppt
-        bindsym Up resize shrink height 5 px or 5 ppt
-        bindsym Right resize grow width 5 px or 5 ppt
-        bindsym Return mode "default"
+        bindsym left resize shrink width 5 px or 5 ppt
+        bindsym down resize grow height 5 px or 5 ppt
+        bindsym up resize shrink height 5 px or 5 ppt
+        bindsym right resize grow width 5 px or 5 ppt
+        bindsym return mode "default"
 }
 bindsym $super+r mode "resize"
 
@@ -243,16 +247,16 @@ bindsym $super+r mode "resize"
 # }
 
 # window rules, you can find the window class using xprop
-for_window [class=".*"] border pixel 4
-assign [class=URxvt] 1
-assign [class=Firefox|Transmission-gtk] 2
-assign [class=Thunar|File-roller] 3
-assign [class=Geany|Evince|Gucharmap|Soffice|libreoffice*] 4
-assign [class=Audacity|Vlc|mpv|Ghb|Xfburn|Gimp*|Inkscape] 5
-assign [class=Lxappearance|System-config-printer.py|Lxtask|GParted|Pavucontrol|Exo-helper*|Lxrandr|Arandr] 6
-for_window [class=Viewnior|feh|Audacious|File-roller|Lxappearance|Lxtask|Pavucontrol] floating enable
-for_window [class=URxvt|Firefox|Geany|Evince|Soffice|libreoffice*|mpv|Ghb|Xfburn|Gimp*|Inkscape|Vlc|Lxappearance|Audacity] focus
-for_window [class=Xfburn|GParted|System-config-printer.py|Lxtask|Pavucontrol|Exo-helper*|Lxrandr|Arandr] focus
+for_window [class=".*"] border pixel 1
+assign [class=urxvt] 1
+assign [class=firefox|transmission-gtk] 2
+assign [class=thunar|file-roller] 3
+assign [class=geany|evince|gucharmap|soffice|libreoffice*] 4
+assign [class=audacity|vlc|mpv|ghb|xfburn|gimp*|inkscape] 5
+assign [class=lxappearance|system-config-printer.py|lxtask|gparted|pavucontrol|exo-helper*|lxrandr|arandr] 6
+for_window [class=viewnior|feh|audacious|file-roller|lxappearance|lxtask|pavucontrol] floating enable
+for_window [class=urxvt|firefox|geany|evince|soffice|libreoffice*|mpv|ghb|xfburn|gimp*|inkscape|vlc|lxappearance|audacity] focus
+for_window [class=xfburn|gparted|system-config-printer.py|lxtask|pavucontrol|exo-helper*|lxrandr|arandr] focus
 
 # colour of border, background, text, indicator, and child_border
 # client.focused              #bf616a #2f343f #d8dee8 #bf616a #d8dee8
@@ -262,7 +266,8 @@ for_window [class=Xfburn|GParted|System-config-printer.py|Lxtask|Pavucontrol|Exo
 # client.placeholder          #2f343f #2f343f #d8dee8 #2f343f #2f343f
 # client.background           #2f343f
 
-client.focused              #ffb300 #1f1f1f #ffffff #ffb300 #ffb300
+# client.focused              #1e88e5 #1f1f1f #ffffff #1e88e5 #1e88e5
+client.focused              #1e88e5 #1e88e5 #ffffff #1e88e5 #1e88e5
 client.focused_inactive     #1f1f1f #1f1f1f #ffffff #f1f1f1 #1f1f1f
 client.unfocused            #1f1f1f #1f1f1f #ffffff #1f1f1f #1f1f1f
 client.urgent               #2f343f #2f343f #d8dee8 #2f343f #2f343f
@@ -270,3 +275,4 @@ client.placeholder          #2f343f #2f343f #d8dee8 #2f343f #2f343f
 client.background           #2f343f
 #2f343f -> default new #f1f1f1
 #d8dee8 --> defalu focused border new #ffb300
+# #1e88e5
