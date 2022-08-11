@@ -12,9 +12,9 @@
 set $mod Mod4
 #-------------------------custom
 #custome lock screen
-set $i3lockwall i3lock -i /home/sugan/Pictures/wallpaper/symm-tn.png -t
-bindsym $mod+Ctrl+Shift+l exec --no-startup-id i3lock-fancy -p
+bindsym $mod+Ctrl+Shift+l exec --no-startup-id betterlockscreen --lock blur
 
+exec_always --no-startup-id xrandr --output HDMI-0 --auto --left-of DP-2
 exec_always --no-startup-id spectacle
 exec_always --no-startup-id greenclip daemon
 #polibar 
@@ -22,7 +22,7 @@ exec_always --no-startup-id bash /home/sugan/.config/polybar/material/preview.sh
 #dunst
 exec_always --no-startup-id dunst
 #wallpaper
-exec --no-startup-id feh --no-fehbg --bg-fill '/home/sugan/Documents/wallpaper/spiderman.jpg'
+exec_always --no-startup-id feh --no-fehbg --bg-fill '/home/sugan/Pictures/wallpaper/tst.jpg'
 
 #floating window
 # floating pop up automatically
@@ -44,7 +44,7 @@ font pango:Noto Sans 0
 # https://wiki.archlinux.org/index.php/XDG_Autostart
 exec --no-startup-id dex --autostart --environment i3
 
-# The combination of xss-lock, nm-applet and pactl is a popular choice, so
+# The combination of xss-lock, nm-applet and pactl xss-lock --transfer-sleep-lock -- i3lock --noforkis a popular choice, so
 # they are included here as an example. Modify as you see fit.
 
 # xss-lock grabs a logind suspend inhibit lock and will use i3lock to lock the
