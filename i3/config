@@ -13,9 +13,9 @@ set $mod Mod4
 #-------------------------custom
 #custome lock screen
 bindsym $mod+Ctrl+Shift+l exec --no-startup-id betterlockscreen --lock blur
+bindsym $mod+Shift+s exec --no-startup-id spectacle -r -b -c
 
 exec_always --no-startup-id xrandr --output HDMI-0 --auto --left-of DP-2
-exec_always --no-startup-id spectacle
 exec_always --no-startup-id greenclip daemon
 #polibar 
 exec_always --no-startup-id bash /home/sugan/.config/polybar/material/preview.sh
