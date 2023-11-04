@@ -1,0 +1,2 @@
+env PATH=$HOME/.config/rofi/scripts:$PATH
+

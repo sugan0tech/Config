@@ -1,11 +1,30 @@
 *
 
 # allows only specific files
-!./i3
-!./htop
-!./rofi
-!./bpytop
-!.alacritty.yml
+!i3/
+!htop/
+!rofi/
+!bpytop/
+!nu/
+!dunst/
+!alacritty/
+!neofetch/
+!nushell/
+!nvim/
+!ranger/
+# files
+!i3/**
+!htop/**
+!rofi/**
+!bpytop/**
+!nu/**
+!dunst/**
+!alacritty/**
+!neofetch/**
+!nushell/**
+./nushell/history.txt
+!nvim/**
+!ranger/**
 !.zshrc
 !.gitignore
 

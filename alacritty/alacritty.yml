@@ -1,0 +1,19 @@
+env:
+  TERM: alacritty
+
+window:
+  padding:
+    x: 0
+    y: 0
+
+
+scrolling:
+  history: 10000
+
+colors:
+  primary:
+    background: '#000000'
+    foreground: '#c5c8c6'
+
+shell:
+   program: /bin/nu
