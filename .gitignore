@@ -1,0 +1,11 @@
+*
+
+# allows only specific files
+!./i3
+!./htop
+!./rofi
+!./bpytop
+!.alacritty.yml
+!.zshrc
+!.gitignore
+
