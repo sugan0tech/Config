@@ -1,4 +1,5 @@
 *
+./nushell/history.txt
 
 # allows only specific files
 !i3/
@@ -27,4 +28,5 @@
 !ranger/**
 !.zshrc
 !.gitignore
+!.tmux.conf
 
