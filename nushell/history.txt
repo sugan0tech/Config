@@ -1,1 +1,1528 @@
 git status
+exit
+yay -S xrandr
+yay -S xorg-xrandr
+xrandr
+clear
+exit
+nvim
+clear
+nvim
+yay -S neovim
+nvim
+git clone https://github.com/LazyVim/starter ~/.config/nvim
+exit
+nvim
+clear
+ls
+cd Documents/
+mkdir GitHub
+ls
+clear
+cd GitHub/
+yay -S jetbrainsz
+yay -S jetbrains-toolbox
+git clone git@github.com:sugan0tech/obsidian-notes.git
+clear
+ls
+cd ~/.config
+git clone git@github.com:sugan0tech/nvim.git
+ls
+clear
+ls -la
+clear
+cd nvim
+ls
+cd ..
+rm -rf nvim
+git clone git@github.com:sugan0tech/nvim.git\
+git clone git@github.com:sugan0tech/nvim.git
+nvim
+clear
+nvim
+clear
+notify-send "hi"
+htop
+clear
+git status
+clear
+ranger
+yay -S ranger
+ls
+yay -S feh
+exit
+nvim
+clear
+exit
+ranger
+yay -S gdu
+gdu
+clear
+exit
+yay -S brave-bin
+yay -S pactl
+aplay
+aplay -l
+pactl
+clear
+pactl
+clear
+pulseaudio
+yay -S pulseaudio
+yay -S pulseaudio-ctl
+pactl
+clear
+pactl list sinks short
+pactl set-default-sink alsa_output.pci-0000_01_00.1.hdmi-stereo
+yay -S qbittorrent
+qbittorrent
+yay -S libQt6Core
+pacman -Qi qbittorrent
+yay -S qt6
+qbittorrent
+xrandr --output 
+xrandr --list
+xrandr 
+xrandr --output DP-0 --brightness 0.6
+yay -S crtc
+xrandr --output DP-0 --brightness 0.6
+xrandr --output DP-0 --gamma 0.6
+xrandr --listactivemonitors
+xrandr --output DP-\2 --gamma 0.6
+xrandr --output DP-2 --gamma 0.6
+exit
+xrandr --output DP-2 --gamma 0.6 .8
+xrandr --output DP-2 --brightness .6
+xrandr --output DP-2 --brightness 1
+xrandr --output DP-2 --brightness .6
+exit
+vlc
+yay -S cvlc
+yay -S libva
+yay -S libqt5svg5
+clear
+yay -R libva-vdpau-driver
+cd Documents/GitHub/
+ls
+cd obsidian-notes/
+ls
+git status
+git add .
+git commit -m "started PDE notes"
+git config --global user.email "sugankpms@gmail.com"
+git config --global user.name "sugan0tech"
+git commit -m "started PDE notes"
+git puh
+git push
+exit
+exit
+disk part
+shutdown
+cd Documents/GitHub/
+yay -S jdk17-openjdk
+git clone git@github.com:sugan0tech/java-design-patterns.git
+yay -S timeshift
+timeshift
+timeshift-gtk
+sudo timeshift-gtk
+exit
+exit
+shutdown now
+notify-send "test"
+nmcli dev wifi
+nmcli dev wifi connect 52:FD:34:0B:55:53 password "12345678"
+iclear
+clear
+cd Documents/GitHub/obsidian-notes/
+ls
+git status
+git add .
+git commit -m "more updates to the init"
+git push
+clear
+nmcli dev wifi
+nmcli dev wifi connect 52:FD:34:0B:55:53 password "12345678"
+nmcli dev wifi
+cd ..
+ls
+cd Documents/GitHub/java-design-patterns/
+ls
+git status
+nmcli dev wifi
+nmcli dev wifi connect NETGEAR04-5G password "redbug086"
+exit
+git log
+git push
+pactl set-default-sink alsa_output.pci-0000_01_00.1.hdmi-stereo
+pactl list
+pactl list sinks short
+pactl set-default-sink alsa_output.pci-0000_05_00.6.analog-stereo
+clear
+exit
+xrandr --output DP-2 --brightness .6
+exit
+zsh
+exit
+shutdown now
+cd Documents/GitHub/
+ls
+cd obsidian-notes/
+git ls-tree
+git ls-tree -t
+git ls-tree -d
+git ls-tree -d .
+git ls-tree main
+git ls-tree -r main
+clear
+git status
+git add .
+git git commit -m "added some shell cmds"
+git commit -m "added some shell cmds"
+git push
+ls
+cd Documents/
+git clone https://github.com/sugan0tech/obsidian-notes.git
+cd obsidian-notes/
+los
+ls
+git status
+ls
+ls\
+ls
+git status
+ls
+git status
+ls
+git pull
+git status
+ls
+git status
+cd ..
+cd GitHub/obsidian-notes/
+git status
+git add .
+git pull
+git status
+git commit -m "test"
+git push
+ls
+cd ..
+rm -rf obsidian-notes
+git clone https://github.com/sugan0tech/obsidian-notes.git
+yay -S ksshaskpass
+exit
+sudo ln /usr/bin/ksshaskpass /usr/lib/ssh/ssh-askpass
+ls
+clear
+exit
+rm -rf obsidian-notes
+git clone git@github.com:sugan0tech/obsidian-notes.git
+i3lock
+yay -S xss-lock
+exit
+xss-lock
+xss-lock --transfer-sleep-lock -- i3lock --nofork
+clear
+yay -S xss-lock
+yay -S betterlockscreen
+yay -S autoreconf
+i3lock
+i3lock -i ~/Pictures/wallpaper/test.jpg
+ls -la
+ls -la ~/Pictures/wallpaper/
+i3lock -i ~/Pictures/wallpaper/green.png
+cd ~/.config
+git statu s
+ls
+git status
+git add i3/config nvim/* i3/*
+git add i3/config nvim i3/*
+git status
+git commit -m "wallpaper updates"
+git push
+git status
+cd nvim
+ls
+git status
+cd ..
+ls
+nvim .
+clear
+exit
+exit
+ranger
+exit
+yay -S node
+yay -S node.js
+yay -S npm
+clear
+yay -S nvm
+nvm list
+zsh
+exit
+clear
+cd Documents/GitHub/
+git pull git@github.com:sugan0tech/crowdin-api-client-ruby.git
+ls
+git pull git@github.com:sugan0tech/crowdin-api-client-ruby.git
+ls
+git clone git@github.com:sugan0tech/crowdin-api-client-ruby.git
+clear
+exit
+ls
+cd Documents/GitHub/crowdin-api-client-ruby/
+nvim .
+cd Documents/GitHub/crowdin-api-client-ruby/
+git status
+git log
+clear
+git status
+git add .
+git commit --amend --no-edit
+git push
+git push --force
+clear
+yay -S rails
+clear
+ruby --version
+yay -S ruby
+git status
+yay -S rvm
+clear
+rvm
+exit
+cd Documents/GitHub/crowdin-api-client-ruby/
+bundle install
+sudo bundle install
+ruby install rails
+bundle install rails
+clear
+exit
+cd Documents/GitHub/crowdin-api-client-ruby/
+buindle install rubocop
+bundle install rubocop
+bundle exec rubocop
+bundle install
+yay -S chruby
+yay -S mak
+yay -S make
+yay -S chruby
+echo 'source /usr/share/chruby/chruby.sh' >> ~/.bashrc
+echo 'source /usr/share/chruby/chruby.sh' >> ~/.zshrc
+zsh
+exit
+exit
+exit
+shutdown now
+feh --no-fehbg --bg-fill './red.jpeg'
+exit
+nvim .
+cd ..
+git status
+git add i3/config
+ls
+git status
+git commit --amend --no-edit
+git push --force
+yay -S chruby
+gpg2 --keyserver keyserver.ubuntu.com --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB
+curl -sSL https://get.rvm.io | bash -s stable
+sudo curl -sSL https://get.rvm.io | bash -s stable
+sudo curl -sSL https://get.rvm.io | sudo bash -s stable
+clear
+ruby --version
+exit
+cd Documents/GitHub/crowdin-api-client-ruby/
+git pull
+git status
+git add .
+git commit --amend --no-edit
+git push --force
+ls
+bash
+reanger
+ranger
+yay -S discord
+exit
+yay -S postman
+cd Documents/GitHub
+git clone git@github.com:sugan0tech/super-couscous.git
+cd super-couscous/
+ls
+rm -rf grpc-try
+clear
+htop
+exit
+xrandr --output DP-2 --brightness .6
+exit
+yay -S edex-ui
+yay -S erbium
+node -version
+node --version
+npm install -g lts-erbium
+clear
+nmcli dev wifi 
+nmcli dev wifi connect "Sugavanesh's iPhone" password "12345678"
+nmcli dev wifi connect "AE:86:F1:96:38:40" password "12345678"
+nmcli dev wifi
+nmcli dev wifi connect "sumathi_5GHz" password "1234@sugan"
+exit
+ranger
+feh ~/Pictures/wallpaper/red.png
+clear
+display ~/Pictures/wallpaper/red.png
+exit
+yay -S go
+ping google.com
+yay -S go
+clear
+exit
+ls
+git status
+git log
+git push
+git log
+exit
+aplay -l
+exit
+xrandr --output DP-2 --brightness .6
+xrandr --output DP-2 --brightness .4
+exit
+pactl set-default-sink alsa_output.pci-0000_05_00.6.analog-stereo
+pactl list sinks short
+pactl set-default-sink alsa_output.pci-0000_01_00.1.hdmi-stereo
+clear
+yay -Syu
+clear
+exit
+nvim
+exit
+cd Documents/GitHub
+ls
+cd super-couscous/
+ls
+git clone git@github.com:sugan0tech/GraphQL-node-try.git
+clear
+ls
+git status
+git commit -m "repo for graphql try"
+git add .
+git submodule add git@github.com:sugan0tech/GraphQL-node-try.git GraphQL-node-try
+git status
+git rm -rf GraphQL-node-try/
+git status
+git restore --staged GraphQL-node-try/
+git status
+git rm -rf GraphQL-node-try/
+git status
+git rm -rf GraphQL-node-try
+git rm -rf ./GraphQL-node-try
+rm -rf ./GraphQL-node-try
+ls
+git submodule add git@github.com:sugan0tech/GraphQL-node-try.git GraphQL-node-try
+git status
+git commit -m "repo for graphql try"
+git push
+exit 
+nmcli dev wifi connect "Kausthubam2" password "$kcet@123"
+nmcli dev wifi connect "Kausthubam2" password "SKCET@123"
+yay -S mariadb
+mariadb
+shutdown now
+mariadb-install-db --user=mysql --basedir=/usr --datadir=/var/lib/mysql<\n>
+sudo mariadb-install-db --user=mysql --basedir=/usr --datadir=/var/lib/mysql<\n>
+sudo systemctl enable mariadb.service
+sudo systemctl start mariadb.service
+yay -S mongodb
+yay -S patch
+patch
+mariadb
+ls
+cd Downloads/
+ls
+unzip test_db-master.zip
+yay -S unzip
+unzip test_db-master.zip
+cd test_db-master/
+nvim employees.sql
+mysql
+mariadb
+mariadb -t < employees.sql
+mariadb
+sudo mariadb
+mysql -t < employees.sql
+mysql 
+ls
+mysql < employees.sql
+mysql < employees_partitioned.sql
+ls
+mariadb
+mysql -t < test_employees_md5.sql
+mysql < employees.sql
+mariadb < employees.sql
+ls
+mariadb employees.sql
+sudo mariadb employees.sql
+ls
+sudo mariadb ./employees.sql
+sudo mariadb < employees.sql
+mariadb --defaults-file ~/connection_parameters.cnf \<\n>   < employees.sql
+mariadb ~/connection_parameters.cnf \<\n>   < employees.sql
+mariadb<\n>   < employees.sql
+cd Downloads/test_db-master/
+pwd
+exit
+cd Downloads/test_db-master/
+nvim employees.sql
+exit
+yay -S mongodb
+yay -S mongodb-bin
+mongodb
+mongo
+mongosh
+sudo systemctl enable mongodb.service
+sudo systemctl start mongodb.service
+sudo mariadb
+exit
+mongosh
+exit
+git clone git@github.com:sugan0tech/student-workspace.git
+cd Documents/GitHub/
+git clone git@github.com:sugan0tech/Event-Manager.git
+git clone git@github.com:sugan0tech/student-workspace.git
+cd student-workspace/
+cd node
+ls
+npm install
+npm run student-workspace
+ls
+touch .env
+mongosh
+nvim .env
+npm run student-workspace
+clear
+cd ../..
+cd Event-Manager/
+ls
+mvn clean install
+docker build -t event-manager-image .
+sudo docker build -t event-manager-image .
+mariadb
+docker run -p 8080:8080 --network="host" event-manager-image
+yay -S mvn
+yay -S maven
+mvn
+mvn clean install
+sudo mariadb
+exit
+clear
+exit
+xrandr --output DP-2 --brightness 1
+exit
+nmcli dev wifi
+ls
+clear
+nmcli dev wifi
+exit
+nmcli dev wifi
+clear
+exit
+nmcli dev wifi
+cd Documents/GitHub/
+git clone git@github.com:sugan0tech/OpenAI-chatbot-integration.git
+cd OpenAI-chatbot-integration/
+nvim
+clear
+yay -S vscode
+code
+yay -S visual-studio-code
+clear
+exit
+nvim
+python --version
+clear
+git status
+python3 -m venv chat_bot
+ls
+cd chat_bot
+ls
+nvim
+source chat_bot/bin/activate<\n>
+cd ..
+source chat_bot/bin/activate<\n>
+rm -rf chat_bot
+ls
+clear
+pip install openai
+ls
+pip install openai
+python -m venv .
+ls
+python -m venv venv
+ls
+rm -rf ./bin lib/ lib64/ pyvenv.cfg include
+ls
+ls -la
+clear
+git status
+clear
+git status
+clear
+yay -S visual-studio-code-bion
+yay -S visual-studio-code-bin
+exit
+nmcli dev wifi
+nmcli dev wifi connect "Sugavanesh's iPhone" password "12345678"
+nmcli dev wifi
+nmcli dev wifi connect "4A:CA:8A:6A:BB:3B" password "12345678"
+curl https://api.openai.com/v1/embeddings \<\n>  -H "Content-Type: application/json" \<\n>  -H "Authorization: Bearer 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" \<\n>  -d '{<\n>    "input": "Your text string goes here",<\n>    "model": "text-embedding-ada-002"<\n>  }'
+zsh
+exitr
+exit
+exit
+nmcli dev wifi 
+nmcli dev wifi connect "Sugavanesh's iPhone" password "12345678"
+nmcli dev wifi connect "6A:A4:60:93:69:DE" password "12345678"
+exit
+nmcli dev wifi
+nmcli dev wifi connect "Kausthubam2" password "SKCET@123"
+nmcli dev wifi 
+nmcli dev wifi connect "Kausthubam2" password "SKCET@123"\
+nmcli dev wifi connect "Kausthubam2" password "SKCET@123"
+cd Documents/
+ls
+cd GitHub/
+cd obsidian-notes/
+ls
+git status
+git pull
+git pull --force
+git config pull.rebase false
+git pull --force
+ls
+git status
+git log
+clear
+git log
+clear
+git status
+git log
+git reset --hard HEAD~1
+git status
+git pull
+git status
+git pull
+cd ..
+ls
+cd super-couscous/
+ls
+ls -la
+unzip demo.zip
+ls
+cd demo
+nvim .
+clear
+ranger
+clear
+curl http://locahost:8080
+curl http://localhost:8080
+man curl
+curl -I http://localhost:8080
+curl -I https://localhost:8080
+curl -o -I https://localhost:8080
+curl -o -I http://localhost:8080
+curl -I http://localhost:8080
+htop
+ls
+clear
+ls
+cd ..
+ls
+mkdir express-http2
+cd express-http2/
+ls
+npm install express
+ls
+npm install http2-express-bridge
+npm install chalk
+ls
+nvim .
+clear
+zsh
+exit
+yay -S mkcert
+mkcert
+mkcert -install
+mkcert localhost
+ls -la
+pwd
+curl -I http://localhost:3000
+curl -I https://localhost:3000
+curl -I https://localhost:420
+curl -I https://localhost:443
+curl -I https://localhost:3000
+curl -I https://localhost:3001
+curl -I https://localhost:3001/express
+clear
+timeshift-gtk
+sudo timeshift-gtk
+exit
+sudo partitionmanager 
+sudo gparted
+yay -S gparted
+sudo gparted
+sudo timeshift-gtk
+yay -S ocaml
+opam
+clear
+yay -S opam
+opam
+clear
+utop
+clear
+shutdown now
+cd Documents/GitHub/
+git clone git@github.com:sugan0tech/AOC.git
+javac --version
+java --version
+yay -S java
+yay -S jre-openjdk
+java --version
+archlinux-java help
+archlinux-java status
+archlinux-java set java-21-openjdk
+sudo archlinux-java set java-21-openjdk
+java --version
+bash 
+javac --version
+java --version
+yay -S javac
+javac
+archlinux-java status
+javac 
+archlinux-javac
+/usr/bin/javac
+/usr/lib/jvm/default-runtime/bin/java
+yay -S jdk-openjdk
+javac --version
+yay -S kotlin
+ping google.com
+yay -S kotlin
+ls
+cd ../../Downloads/
+ls
+unzip kotlin-1.9.21-1-any.pkg.tar.zst
+yay -S kotlin-1.9.21-1-any.pkg.tar.zst
+yay kotlin-1.9.21-1-any.pkg.tar.zst
+ls
+./kotlin-1.9.21-1-any.pkg.tar.zst
+sudo ./kotlin-1.9.21-1-any.pkg.tar.zst
+sudo pacman -S kotlin
+sudo pacman -U --noconfirm kotlin-1.9.21-1-any.pkg.tar.zst
+exit
+yay -S docker-desktop
+ping google.com
+yay -S docker-desktop
+sudo pacman -S gnome-terminal
+xrandr --output DP-2 --brightness 1
+clear
+ls
+cd Downloads/
+ls
+sudo pacman -U ./docker-desktop-<version>-<arch>.pkg.tar.zst
+sudo pacman -U ./docker-desktop-4.26.0-x86_64.pkg.tar.zst
+redis
+yay -S redis
+redis
+sudo systemctl start redis.service
+sudo systemctl status redis.service
+redis
+cd Documents/GitHub/
+ls
+cd super-couscous/
+ls
+git status
+git add .
+git commit -m "trash"
+git push
+clear
+ls
+git status
+git add .
+git commit -m "something working"
+git status
+ls
+clear
+kotlinc
+clear
+exit
+cd Documents/GitHub/super-couscous/
+git status
+git instaweb
+yay -S lighttpd
+git instaweb
+vim .
+nvim .
+clear
+cd Documents/GitHub/super-couscous/
+ls
+cd ..
+ls
+clear
+ls
+clear
+ls
+clear
+cd java-design-patterns/
+ls
+yay -Sy discord
+nvim .
+clear
+nvim .
+ls
+cd ..
+ls
+cd super-couscous/
+ls
+cd redis-test/
+nvim .
+cd ../../java-design-patterns/
+git pull 
+java --version
+sudo archlinux-java set java-17-openjdk
+java --version
+ls
+pwd
+ls
+pwd
+ls
+cd Documents/GitHub/java-design-patterns/
+ls
+git status
+git log
+ls
+git log
+git status
+git add .
+git commit --amend --no-edit
+git push --force
+ls
+git log
+git status
+git checkout master
+git pull
+git status
+htop
+exit
+nvidia-smi
+yay -S nvtop
+nvtop
+clear
+nvtop
+exit
+shutdown now
+xrandr --output DP-2 --brightness .6
+xrandr --output DP-2 --brightness 1
+ls
+nvim
+ls
+cd ~/.config
+ls
+git status
+cd nvim
+ls
+git status
+ls
+cat lazy-lock.json
+ls
+cat init.lua
+ls
+rm -rf .
+ls
+rm -rf ./
+rm .*
+rm *.
+rm *.*
+ls
+rm -rf *
+ls
+nvim
+git status
+git add .
+git commit -m "no more Lazy"
+exit
+git push
+cd ..
+ls
+git status
+git add nvim/
+git status
+git commit -m "no more Lazy"
+git push
+nvim
+ls
+cd nvim
+ls
+nvim init.lua
+ls
+xterm
+exit
+ls
+exit
+cd "/home/sugan/Documents/GitHub/AOC/2023/day7/" && javac Main.java && java Main
+exit
+cd "/home/sugan/Documents/GitHub/AOC/2023/day7/" && javac Main.java && java Main
+javac
+cd "/home/sugan/Documents/GitHub/AOC/2023/day7/" && javac Main.java && java Main
+exit
+nvim
+nvim init.lua\
+ls
+rm init.lua\
+ls
+cd ~/.config/nvim
+ls
+nvim init.lua
+ls
+git status
+cat lazy-lock.json
+ls
+git status
+git add .
+git commit -m "initial setup with lazy pac"
+git push
+ls
+nvim init.lua
+nmcli dev wifi connect "Sugavanesh's iPhone" password "12345678"\
+nmcli dev wifi connect "Sugavanesh's iPhone" password "12345678"
+nmcli dev wifi
+clear
+nmcli dev wifi
+nmcli dev wifi connect "Sugavanesh's iPhone" password "12345678"
+nmcli dev wifi connect "DA:65:0C:DB:AF:55" password "12345678"
+nvim init.lua
+git status
+git add .
+git commit -m "setup for fuzzy finder ( telescope )"
+nvim init.lua
+ls
+git status
+git add .
+git commit -m "added treesitter"
+git push
+clear
+clear
+cd ~/.config/nvim
+git status
+nvim init.lua
+git status
+git add .
+git commit -m "added neotree and plugin rearchitecture"
+git push
+nvim init.lua
+git status
+git add .
+git commit -m "added lua-line, and file config reorganizations"
+git push
+nvim init.lua
+clear
+nvim init.lua
+ls
+cd Documents/GitHub/java-design-patterns/
+nvim .
+nvim notification/src/main/java/com/iluwatar/App.java
+exit
+git status
+git add .
+git commit -m "added lsp support"
+git push
+cd ..
+ls
+git status
+git add nvim/
+git commit -m "nvim updates"
+git push
+exit
+shutdown now
+ls
+nvim 
+cd ~/.config/nvim
+ls
+nvim init.lua
+nvim
+nvim
+exit
+snvim
+nvi
+nvim
+git status
+cd ~/.config/nvim
+git status
+nvim
+git status
+nvim
+git add .
+git commit -m "added dashboard with custom name"
+git push
+ls
+clear
+ls
+ls -la
+ls
+clear
+ls
+ls -la
+clear
+cls
+clear
+ls
+clear
+git status
+git log --all --decorate --oneline --graph
+ranger
+ls
+ls -la
+cd ..
+ls
+cd ~/.config/nvim
+git status
+git graph
+cd ~
+ls
+ls -la
+cat .gitconfig
+nvim .gitconfig
+git graph
+nvim .gitconfig
+ls
+git graph
+nvim .gitconfig
+git chart
+git reflog
+git reflog
+git standup
+git statdup
+git standup
+git standup :
+git grep "si"
+clear
+git show
+nvim
+clear
+cd ~/.config/nvim
+clear
+xclip
+yay -S xclip
+xclip
+clear
+nmcli dev wifi
+nmcli dev wifi connect "ACT103698209815" password 10081101
+exit
+ls
+cd Documents/
+ls
+cd GitHub/
+cd ~/.config/nvim
+ls
+nvim
+git status
+git add .
+git commit -m "added surround vim"
+git push
+yay -S tmux
+tmux
+ls
+ls -la
+exit
+clear
+exit
+ping google.com
+tmux
+nvim
+clear
+nvim
+ls
+cd ~/.config/nvim
+ls
+nvim .
+clear
+nvim
+nvim .
+nvim
+nvim 
+nvim .
+git status
+exit
+cd ~/.config/nvim
+ls
+nvim
+nvim 
+ls
+git status
+git add .
+git commit -m "added clipboard shortcut mapping"
+git push
+git push --force
+ping github.com
+git push --force
+nvim .
+tmux
+cd ..
+ls
+ls | grep "tmux"
+ls
+ls -la
+nvim tmux.conf
+clear
+tmux
+tmux attach 1
+tmux attach -t 1
+ls
+cd nvim
+git pull
+nvim
+ls
+nvim
+ls
+nvim ./lua/keymaps.lua
+ls
+git status
+git commit -m "refactored keymaps and added keymaps for macros"
+git add .
+git commit -m "refactored keymaps and added keymaps for macros"
+clear
+nvim 
+nvim
+nvim 
+ls
+ls -la
+ls
+nvim 
+nvim
+nvim 
+nvim
+nvi
+nvim
+clear
+nvim
+git status
+git add .
+cat lazy-lock.json
+git status
+git commit -m "added nvim-autoparis"
+git push
+clear
+nvim
+nvim 
+nvim
+ls
+clear
+tmux
+nvim
+git status
+git commit -m "nvim-cmp scroll update"
+git add .
+git commit -m "nvim-cmp scroll update"
+nvim ./lua/plugins/nvim-cmp.lua
+nvim
+cd ~/.config/nvim
+nvim
+:q
+exit
+:q
+nvim
+cd ~/.config/nvim
+nvim
+exit
+git status
+git add .
+git commit -m "added border to lsp.hover"
+git push
+exit
+shutdown now\
+cd ~/.config/nvim
+ls
+nvim 
+cd ~/.config/nvim
+git pull
+clear
+nvim
+nvim
+git statug
+git status
+nvim .gitignore
+git status
+git rm lazy-lock.json
+git status
+git add .
+git commit -m "added comment, nvim-clourizer, and window-picker"
+git push
+clear
+git pull
+git status
+nvim
+ls -la
+nvim
+clear
+yay -S lazygit
+lazygit
+cd ~/.config/nvim
+lazygit
+clear
+nvim
+git status
+git add lua/
+git status
+git commit -m "added lazy git, updated todo"
+git push
+stress
+bash
+yay -S stress
+stress
+stress -n
+stress  --cpu 8 --timeout 10000
+ls
+ranger
+clear
+exigt
+exit
+stress  --cpu 12 --timeout 10000
+htop
+exit
+clear
+cd ~/.config/nvim
+ls
+git pull
+git log
+git status
+git stash
+git pull
+nvim
+clear
+vim
+vi
+clear
+nvim
+clear
+yay -S stylua
+nvim
+nvim
+clear
+clear
+exit
+nvim
+nvim init.lua
+ls
+cd lua
+ls
+nvim keymaps.lua
+cd ..
+cd ~/.config/nvim
+nvim
+nvim .
+nvim
+clear
+nvim
+hnvim
+nvim
+nvim
+clear
+nvim
+nvim 
+cd Documents/GitHub/java-design-patterns/
+ls
+yay -S telegram
+yay -S telegram-desktop
+exit
+telegram-desktop
+telegram
+clear
+yay -S telegram-desktop
+nvim
+nvim
+sudo pacman -S plantuml imv feh<\n>
+clear
+exit
+nvim ./notification/
+clear
+exit
+telegram
+telegram-desktop
+yay -S libprotobuf
+yay -S libprotobuf-lite
+yay -S libprotobuf
+pamac search libprotobuf.so
+sudo pacman -Syu
+yay -S libprotobuf.go
+pamac search libprotobuf.so
+yay -Sy protobuf
+cd ..
+ls
+cd Event-Manager/
+nvim ./src/main/java/in/ac/skcet/event_manager/BootstrapDataDev.java
+clear
+git status
+git add .
+git commit -m "added maven support"
+nvim ./src/main/java/in/ac/skcet/event_manager/BootstrapDataDev.java
+clear
+ls
+git push
+nvim
+clear
+nvim
+clear
+nvim
+git status
+git reset init.lua
+git reset
+ls
+git status
+git add lua/plugins/oil.lua
+git commit -m "added oil support better file structure editor"
+git push
+git stash
+git status
+nvim
+clear
+yay -S tpm
+cd ..
+ls
+vim tmux.conf
+clear
+ls
+clear
+exit
+tmux
+ls
+clear
+exit
+clear
+tmux
+tmux list sessions
+tmux list-sessions
+tmux attach editor
+tmux attach
+tmux source ~/.config/tmux.conf
+tmux attach
+tmud
+tmux
+clear
+nvim tmux.conf
+nvim .tmux.conf
+clear
+nvim .tmux.conf
+cd ..
+ls
+tmux
+tmux source-files ~/.tmux.conf
+tmux source ~/.tmux.conf
+nvim .tmux.conf
+exit
+tmux
+clear
+nvim .tmux.conf
+cd ..
+ls
+run -b ~/.tmux.conf
+yay -S tmux
+nvim .tmux.conf
+source ~/.tmux.conf
+exit
+clear
+tmux
+exit
+exit
+shutdown now
+tmux
+tmp
+yay -S tmp
+git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
+tmux
+exit
+bash
+exit
+tmux
+tmux source ~/.tmux.conf
+ls
+exit
+tmux
+exit
+ls
+clear
+tmux
+tmux attach
+exit
+tmux
+clear
+nvim
+clear
+ls
+clear
+ls
+clear
+ls
+k
+clear
+exit
+tmux -u
+tmux -u
+exit
+tmux active-sessions
+tmux active-session
+tmux help
+man tmux
+tmux list-sessions
+exit
+shutdown now\
+ls
+clear
+hollywood
+yay -S hollywood
+hollywood
+clear
+edxui
+edx-ui
+edex-ui
+yay -S edex-ui
+npm install nodejs-lts-erbium
+node --version
+npm
+npm list
+clear
+ls
+cd ~/.config/nvim
+nvim init.lua
+cd Documents/GitHub/
+tmux
+clear
+ls
+clear
+ls
+clear
+ls
+cd student-workspace/
+ls
+clear
+ls
+clear
+cd student-workspace/
+ls
+cd node
+ls
+clear
+npm install
+npm start
+npm run start
+ls -la
+npm start student-workspace
+npm student-workspace
+tmux -u
+tmux -u attach student-manager
+tmux list-sessions
+tmux attach student-workspace/
+tmux attach student-workspace
+cd student-workspace/react-core/
+clear
+ls
+npm start
+tmux -u
+tmux list-sessions
+tmux attach
+tmux attach -u
+tmux -u attach 
+nvim .
+exit
+exit
+tmux -u attach
+clear
+tmux ls
+tmux a
+tmux a -u
+clear
+ls
+c
+clear
+exit
+tmux new test
+tmux ls
+tmux new -s test
+tmux ls
+tmux ks -t test
+tmux kill-session -t test
+nvim
+exit
+nvim
+clear
+exit
+exit
+tmux -u a
+exit
+tmux ls
+tmux kill-session -t student-workspace
+clear
+sudo pacman -Syu
+clear
+cd ../..
+tmux
+clear
+tmux -u 
+ls
+ls -la
+clear
+exit
+tmux
+clear
+tmux
+clear
+exit
+tmux -u
+tmux ls
+tmux -u a -t 2
+tmux
+tmux -u 
+tmux ls
+tmux -u
+git clone https://github.com/tmux-plugins/tmux-logging ~/clone/path
+clear
+# type this in terminal<\n> tmux source-file ~/.tmux.conf
+tmux -u
+tmux source-file ~/.tmux.conf
+tmux -u
+cd ~/.config/nvim
+nvim .tmux.conf
+ls
+cd Documents/GitHub/
+clear
+nvim test.css
+tmux source-file ~/.tmux.conf
+exit
+tmux
+tmux ls
+tmux a 3
+clear
+ls
+clear
+tmux -u
+exit
+nvim
+tmux source-file ~/.tmux.conf
+tmux a -t 3
+exit
+tmux
+cd ~
+nvim
+cd .config/
+nvim
+ls
+nvim
+nvim .gitignore
+nvim
+nvim nushell/history.txt
+nvim .gitignore
+nvim
+git status
+git add .gitignore nvim/* .tmux.conf
+git add .gitignore .tmux.conf
+git commit -m "added tmux config"
+git push

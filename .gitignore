@@ -30,3 +30,4 @@
 !.gitignore
 !.tmux.conf
 
+nushell/history.txt
