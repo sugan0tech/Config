@@ -129,8 +129,6 @@ exit
 exit
 shutdown now
 notify-send "test"
-nmcli dev wifi
-nmcli dev wifi connect 52:FD:34:0B:55:53 password "12345678"
 iclear
 clear
 cd Documents/GitHub/obsidian-notes/
@@ -140,16 +138,11 @@ git add .
 git commit -m "more updates to the init"
 git push
 clear
-nmcli dev wifi
-nmcli dev wifi connect 52:FD:34:0B:55:53 password "12345678"
-nmcli dev wifi
 cd ..
 ls
 cd Documents/GitHub/java-design-patterns/
 ls
 git status
-nmcli dev wifi
-nmcli dev wifi connect NETGEAR04-5G password "redbug086"
 exit
 git log
 git push
@@ -361,11 +354,6 @@ node -version
 node --version
 npm install -g lts-erbium
 clear
-nmcli dev wifi 
-nmcli dev wifi connect "Sugavanesh's iPhone" password "12345678"
-nmcli dev wifi connect "AE:86:F1:96:38:40" password "12345678"
-nmcli dev wifi
-nmcli dev wifi connect "sumathi_5GHz" password "1234@sugan"
 exit
 ranger
 feh ~/Pictures/wallpaper/red.png
@@ -424,8 +412,6 @@ git status
 git commit -m "repo for graphql try"
 git push
 exit 
-nmcli dev wifi connect "Kausthubam2" password "$kcet@123"
-nmcli dev wifi connect "Kausthubam2" password "SKCET@123"
 yay -S mariadb
 mariadb
 shutdown now
@@ -572,23 +558,16 @@ yay -S visual-studio-code-bion
 yay -S visual-studio-code-bin
 exit
 nmcli dev wifi
-nmcli dev wifi connect "Sugavanesh's iPhone" password "12345678"
 nmcli dev wifi
-nmcli dev wifi connect "4A:CA:8A:6A:BB:3B" password "12345678"
 curl https://api.openai.com/v1/embeddings \<\n>  -H "Content-Type: application/json" \<\n>  -H "Authorization: Bearer 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" \<\n>  -d '{<\n>    "input": "Your text string goes here",<\n>    "model": "text-embedding-ada-002"<\n>  }'
 zsh
 exitr
 exit
 exit
 nmcli dev wifi 
-nmcli dev wifi connect "Sugavanesh's iPhone" password "12345678"
-nmcli dev wifi connect "6A:A4:60:93:69:DE" password "12345678"
 exit
 nmcli dev wifi
-nmcli dev wifi connect "Kausthubam2" password "SKCET@123"
 nmcli dev wifi 
-nmcli dev wifi connect "Kausthubam2" password "SKCET@123"\
-nmcli dev wifi connect "Kausthubam2" password "SKCET@123"
 cd Documents/
 ls
 cd GitHub/
@@ -893,13 +872,9 @@ git commit -m "initial setup with lazy pac"
 git push
 ls
 nvim init.lua
-nmcli dev wifi connect "Sugavanesh's iPhone" password "12345678"\
-nmcli dev wifi connect "Sugavanesh's iPhone" password "12345678"
 nmcli dev wifi
 clear
 nmcli dev wifi
-nmcli dev wifi connect "Sugavanesh's iPhone" password "12345678"
-nmcli dev wifi connect "DA:65:0C:DB:AF:55" password "12345678"
 nvim init.lua
 git status
 git add .
@@ -1015,8 +990,6 @@ xclip
 yay -S xclip
 xclip
 clear
-nmcli dev wifi
-nmcli dev wifi connect "ACT103698209815" password 10081101
 exit
 ls
 cd Documents/
@@ -1526,3 +1499,639 @@ git add .gitignore nvim/* .tmux.conf
 git add .gitignore .tmux.conf
 git commit -m "added tmux config"
 git push
+nvim
+ls
+clear
+nvim .tmux.conf
+clear
+nvim .tmux.conf
+cd nvim
+git status
+nvim 
+nvim
+ls
+cd ~/Documents/GitHub/Event-Manager/
+nvim
+clear
+ls
+nvim
+clear
+ranger
+clear
+exit
+nvim .tmux.conf
+cd ~/.config/nvim/
+nvim
+clear
+nvim
+exit
+exit
+shutdown now
+cd ~/.config/nvim/
+clear
+nvim 
+nvim
+nvim ./lua/core/init.lua
+nvim
+nvim ./lua/core/init.lua
+nvim init.lua
+nvim
+git status
+git commit -m "restructure for telescope picker"
+git add .
+git commit -m "restructure for telescope picker"
+git push
+nvim
+cd Documents/GitHub/student-workspace/
+ls
+nvim 
+nvim
+clear
+cd ..
+ls
+nvim
+clear
+exit
+nvim
+clear
+nvim
+clear
+nvim
+ls
+cd Documents/
+mkdir test
+ls
+cd test
+nvim
+exit
+clear
+exit
+nvim
+clear
+ls
+cd Documents/GitHub/
+ls
+cd super-couscous/
+clear
+ls
+nvim GraphQL-node-try/
+clear
+cd ..
+ls
+mkdir test
+cd test
+xtitle
+pwd
+exit
+nvim
+clear
+nvim
+tmux
+clar
+clear
+npm install -g typescript --save-dev
+sudo npm install -g typescript --save-dev
+npm install -g npm@10.2.5
+sudo npm install -g npm@10.2.5
+nvim
+nvm
+nvm list
+yay -S nvm
+nvm
+tsc -v
+clear
+tsc test.ts
+clear
+tsc test.ts
+ls
+cat test.js
+cd ~/.config/nvim
+nvim
+ls
+ls -la
+cd lua
+ls -la
+cd plugins
+ls -la
+nvm
+nvim
+clear
+cd ..
+cd..
+cd ..
+ranger
+clear
+cd ~/.local/share/nvim/
+ls
+cd lazy
+ls
+cd sniprun/
+ls
+./install.sh
+cd ~/
+nvim .tmux.conf
+tmux source-file ~/.tmux.conf
+exit
+clear
+ls
+clear
+exit
+cd ~/.config
+ls
+cd nvim
+ls
+nvim
+clear
+exit
+bash
+exit
+bash
+exit
+tmux -u a
+exit
+tmux
+clear
+cd ~/.config/nvim
+nvim .
+cd /home/sugan/.local/
+ls
+cd share
+ls
+cd nvim
+ls
+mkdir session
+mkdir sessions
+nvim .
+ls
+exit
+yay -S fzf
+exit
+nvim
+clear
+nvim 
+nvim
+clear
+nvim
+clear
+git status
+git push
+nvim
+git status
+nvim
+clear
+go --version
+bash
+sudo pacman -Syu
+sudo pacman -S google-chrome
+sudo pacman -S google-chrome-stable
+google-chrome
+google-chrome-stable
+sudo pacman -S google-chrome-stable
+sudo pacman -Sy google-chrome-stable
+exit
+cd Documents/GitHub/super-couscous/
+ls
+mkdir go-things
+cd go-things/
+yay -S go
+go --version
+go version
+exit
+nvim
+tmux
+tmux -u a
+ls
+clear
+go mod init example/hello
+ls
+go test.go
+go run .
+go mod init example/hello
+go build .
+ls
+ls -la
+clear
+go build
+ls 
+hello
+.hello
+./hello
+cd Documents/GitHub
+git clone https://github.com/go-delve/delve<\n>
+cd delve/
+go run .
+ls
+cat test.txt
+ls -la
+go run .
+exit
+ls
+clear
+go get github.com/Pallinder/go-randomdata
+go run .
+clear
+go run .
+exit
+go run .
+clear
+cd ..
+mkdir notes-tool
+cd notes-tool
+clear
+ls
+clear
+ls
+clear
+go mod init notes-app
+cd notes-app
+cd ..
+ls
+cd notes-tool
+go mod init notes-app
+ls
+go run .
+nvim
+ls
+cd ..
+ls
+cd notes-tool/
+ls
+go run .
+exit
+go run .
+exit
+go run .
+exit
+go run .
+cd ..
+cd notes-tool/
+go run .
+clear
+go run .
+exit
+clear
+go run .
+cd ..
+cd notes-tool/
+go run .
+exit
+nvim
+go run .
+cd ..
+cd notes-tool/
+go run .
+exit
+cd ..
+ls
+cd notes-tool/
+go run .
+shutdown now
+tmux 
+tmux ls
+clear
+exit
+tmux -u 
+cd Documents/GitHub/super-couscous/
+clear
+nvim
+cd notes-tool/
+exit
+nvim
+ls
+cd ..
+ls
+cd go-things/
+go init ds
+go --init ds
+go help
+go help init
+go mod init ds
+exit
+cd go-things/
+go run .
+clear
+nmcli dev wifi 
+clear
+ls
+cd Documents/GitHub/super-couscous/
+ls
+cd go-things/
+clear
+nvim
+tmux
+clear
+go run .
+xrandr --output DP-2 --brightness 0.6
+clear
+xrandr --output DP-2 --brightness 1
+clear
+go run .
+clear
+xrandr --output DP-2 --brightness .7
+exit
+nvim
+cd Documents/GitHub/super-couscous/go-things/
+go run .
+nvim
+ls
+cd ..
+ls
+cd go-things/
+ls
+mkdir go-concurrencies
+cd go-concurrencies/
+go mod init concurrencies
+ls
+cd go-concurrencies/
+go run .
+;
+shutdown now
+clear
+ls
+cd ~/.config
+ls
+cd i3/
+xrandr --listactivemonitors
+exit
+cd Documents/GitHub/super-couscous/go-things/
+ls
+clear
+tmux -u
+tmux ls
+ls
+clear
+nvim
+go run .
+cd go-concurrencies/
+go run .
+clear
+go run .
+shutdown now
+cd Documents/GitHub/super-couscous/go-things/
+ls
+mkdir tax-calculator
+cd tax-calculator/
+clear
+go mod init tax-calculator
+go run .
+lear
+clear
+go run .
+tmux ls
+tmux a 
+tmux a -u
+ls
+go run .
+clear
+go run .
+0
+clear
+go run .
+nvim
+ls
+cd ..
+ls
+cd go-concurrencies/
+ls
+nvim
+cd ..
+cd tax-calculator/
+nvim
+go run .
+clear
+go run .
+ls
+cd ..
+ls
+cd .
+cd ..
+ls
+mkdir event-manager-go
+cd event-manager-go/
+ls
+clear
+cd ..
+ls
+cd ..
+cd event-manager-go/
+ls
+go mod init event-manager-go
+xrandr --output DP-2 --brightness .7
+xrandr --output DP-2 --brightness .5
+go get -u github.com/gin-gonic/gin
+ls
+go run .
+clear
+cd ..
+cd event-manager-go/
+ls
+go run .
+exit
+go run .
+cd ..
+cd event-manager-go/
+ls
+clear
+go run .
+ping localhost:8080
+ping 127.0.0.1:8080
+ping 192.167.0.1:8080
+ifconfig
+ipconfig
+yay -S net-tools
+ifconfig
+ping 192.168.1.9:8080
+clear
+exit
+bash
+exit
+cd ..
+ls
+cd event-manager-go/
+ls
+clear
+go run .
+go get github.com/mattn/go-sqlite3
+clear
+shutdown now
+cd Documents/GitHub/super-couscous/event-manager-go/
+clear
+go run .
+tmux -u
+clear
+go run .
+nmcli dev wifi
+nmcli dev wifi
+exit
+cd `Downloads/GTAV Source/`
+ls
+nvim
+cd Documents/GitHub/super-couscous/event-manager-go/
+cd ~/.config
+cd nvim
+ls
+nvim
+tmux -u
+clear
+ls
+clear
+git clone https://github.com/jimeh/tmuxifier.git ~/.tmuxifier
+cd ~/
+ls
+ls -la
+nvim .zshrc
+nvim .bashrc
+bash
+ls
+cd ~/.config
+ls
+cd nushell/
+ls
+tmuxifier
+clear
+eval "$(tmuxifier init -)"
+bash
+exit
+bash
+sh
+clear
+exit
+bash
+exit
+git status
+bash
+exit
+exit
+exit
+tmuxifier
+exit
+bash
+exit
+tmuxifier new-session typecraft
+tmuxifier
+tmuxifier new-session typecraft
+exit
+tmuxifier new-session test1
+tmuxifier 
+nvim
+cd ..
+ls
+git status
+git add nushell/config.toml
+git commit -m "source for tmuxifier"
+git push
+cd ..
+ls
+cd .config
+/nvim
+cd nvim
+ls
+nvim
+bash
+exit
+cd .
+ls
+nvim tmux.conf
+ls
+cd ~/.config/
+ls
+nvim tmux.conf
+ls
+cd ..
+ls -la
+nvim tmux.conf
+cd .config/
+ls
+git pull
+git status
+git commit nvim
+cat ~/.tmux.conf
+cd ..
+tmuxifier
+exit
+tmuxifier list-session
+tmuxifier list-sessions
+tmuxifier 
+nvim .tmux.conf
+cp 
+cp ~/.tmux.conf ~/.config/
+cd .config/
+ls
+git status
+git add .tmux.conf
+git commit -m "tmux confi update for vim integration"
+git push
+cd nvim
+ls
+tmuxifier load-session test1
+exit
+bash
+exit
+tmuxifier load-session test1
+tmux ls
+tmux --help
+tmux
+tmux ls
+man tmux
+tmux kill-session -t 2
+nvim .tmux.conf
+tmux a
+nvim .tmux.conf
+tmux
+tmux kill-session -t test1
+tmux ls
+tmux kill-session -t 3
+tmux kill-session -t test
+tmux
+tmux 
+ls
+nvim .tmux.conf
+tmux
+tmux -u
+clear
+pwd
+cd ~/.config/nvim
+tmux a
+tmus ls
+tmux ls
+tmux kill-session -t 0
+tmux
+clear
+exit
+bash
+ls
+nvim .tmux.conf
+tmux
+tmux ls
+tmus kill-session 0
+tmux kill-session -t 0
+tmux
+tmux -u
+tmux a
+tmux kill-session -t 0
+tmux ls
+tmux
+tmux 
+clear
+tmux -u
+tmux a -u
+tmux -u a
+clear
+nvim .tmux.conf
+cp ~/.tmux.conf ~/.config/
+cd ~/.config
+git status
+git add .tmux.conf
+git commit -m "added session saving to tmux"
+exit
+git push
+nvim
+exit
+clear
+tmuxifier
+tmuxifier ls
+tmuxifier ls 
+tmuxifier s test1
+cd ~/.config
+cd nushell
+nvim .
