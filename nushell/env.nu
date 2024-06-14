@@ -79,4 +79,3 @@ $env.NU_PLUGIN_DIRS = [
 #
 # $env.PATH = ~/.config/rofi/scripts:$PATH
 $env.PATH = ($env.PATH | split row (char esep) | prepend '/home/sugan/.tmuxifier/bin/')
-

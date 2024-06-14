@@ -1,1 +1,2 @@
 env PATH=$HOME/.config/rofi/scripts:$PATH
+env PATH=$HOME/sugan/.dotnet/tools:$PATH

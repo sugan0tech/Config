@@ -1,0 +1,16 @@
+[colors.primary]
+background = "#000000"
+foreground = "#c5c8c6"
+
+[env]
+TERM = "alacritty"
+
+[scrolling]
+history = 10000
+
+[shell]
+program = "/bin/nu"
+
+[window.padding]
+x = 0
+y = 0
