@@ -79,3 +79,9 @@ $env.NU_PLUGIN_DIRS = [
 #
 # $env.PATH = ~/.config/rofi/scripts:$PATH
 $env.PATH = ($env.PATH | split row (char esep) | prepend '/home/sugan/.tmuxifier/bin/')
+$env.PATH = ($env.PATH | split row (char esep) | prepend '/home/sugan/.dotnet/tools/')
+$env.PATH = ($env.PATH | split row (char esep) | prepend '/nix/var/nix/profiles/default/bin')
+$env.PATH = ($env.PATH | split row (char esep) | prepend '/usr/bin')
+$env.PATH = ($env.PATH | split row (char esep) | prepend '/bin')
+$env.PATH = ($env.PATH | split row (char esep) | prepend '/usr/sbin')
+$env.PATH = ($env.PATH | split row (char esep) | prepend '/usr/local/bin')

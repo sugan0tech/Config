@@ -2135,3 +2135,2338 @@ tmuxifier s test1
 cd ~/.config
 cd nushell
 nvim .
+nvim 
+exit
+tmuxifier ls
+tmuxifier test1
+tmuxifier s test1
+tmuxifier 
+tmuxifier
+nvim .bashrc
+bash
+clear
+tmuxifier 
+nvim .zshrc
+exit
+bash
+exit
+tmuxifier nexit
+exit
+bash
+exit
+clear
+tmuxifier ns test1
+tmuxifier ns test2
+tmuxifier nw
+tmuxifier nw test1
+tmuxifier ls
+tmuxifier test2
+nvim .
+exit
+tmuxifier ls
+tmuxifier
+tmuxifier commands
+nvim /home/sugan/.tmuxifier/layouts/test1.session.sh
+ls
+nvim /home/sugan/.tmuxifier/layouts/
+tmuxifier ls
+tmuxifier ns event-manager-go\
+tmuxifier ns event-manager-go
+watch
+watch -d
+watch -d date
+bash
+exit
+bash
+exit
+yay -S tty-clock
+tty-clock
+tty-clock -t
+tmuxifier ls
+tmuxifier
+tmuxifier ls event-manager-go
+tmuxifier s event-manager-go
+tmuxifier ls
+tmus -ls
+tmux -ls
+tmus
+tmux
+tmux ls
+tmux kill-session -t event-manager-go
+clear
+nvim /home/sugan/.tmuxifier/layouts/event-manager-go.session.sh
+exit
+bash
+exit
+nu
+exit
+exit
+bash
+exit
+nu
+exit
+clear
+tmuxifier new-session nvim
+tmuxifier ls
+tmuxifier s nvim
+clear
+exit
+bash
+exit
+xrandr --output DP-2 --brightness .5
+exit
+tmuxifier s nvim
+exit
+bash
+exit
+exit
+xrandr --output DP-2 --brightness 1
+t
+exit
+clear
+go run .
+clear
+go get -u golang.org/x/crypto
+go run .
+tmuxifier
+clear
+tmuxifier ls
+clear
+tmuxifier
+clear
+tmuxifier ls
+tmuxifier s nvim
+ls
+cd ~/.config
+cd nvim
+nvim .
+nvim
+ls
+cd ..
+cd alacritty/
+ls
+nvim alacritty.yml
+cd ..
+cd nvim
+nvim
+clear
+nvim
+t
+exit
+tmuxifier s event-manager-go
+exit
+bash
+exit
+cd ~/.config
+cd nvim
+nvim
+yay -S slack-desktop
+clear
+ranger
+exit
+cd Documents/GitHub/
+git clone git@github.com:sugan0tech/the-navin-p.git
+clear
+cd the-navin-p/
+python -m venv venv
+source venv/bin/activate<\n>
+ls
+cd venv
+ls
+cd ..
+clear
+ls
+clear
+exit
+ls
+clear
+nvim
+tmuxifier s nvim
+xrandr --output DP-2 --brightness 0.6
+exit
+bash
+clear
+cd ..
+tmuxifier ns the-navin-p
+tmuxifier ls
+cd Documents/GitHub/
+nvim test.py
+ls
+touch me.txt
+touch hi.txt
+nvim
+gzip --help
+gzip demo
+zip demo
+zip ./demo
+ls
+tmuxifier s the-navin-p
+clear
+cd the-navin-p/
+ls
+rm main.py
+ls -la
+clear
+python -m venv venv<\n>
+ls
+nvim requirements.txt
+source venv/bin/activate<\n>
+bash
+exit
+ls
+cd Documents
+ls
+ls -la
+mkdir testvini
+ls
+cd testvini
+ls
+exit
+tmuxifier s the-navin-p
+clear
+exit
+bash
+exi
+exit
+tmuxifier s the-navin-p
+exit
+bash
+tmuxifier s the-navin-p
+clear
+tmuxifier ls
+cd ~/.config
+ls
+cd nushell
+rofi
+tmuxifier
+cat ~/.tmuxifier/bin/
+cat ~/.tmuxifier/bin
+cat ~/.tmuxifier/bin/tmuxifier
+~/.tmuxifier/bin/tmuxifier
+tmuxifier
+exit
+tmuxifier
+exit
+tmuxifier
+exit
+tmuxifier
+exit
+tmuxifier
+exit
+tmuxifiet
+exit
+tmuxifier
+exit
+tmuxifier
+exit
+nvim
+cd .
+cd ..
+ls
+clear
+tmuxifier s nvim
+tmuxifier ls
+cd nvim
+nvim
+yay -S discord
+xrandr --output DP-2 --brightness 0.6
+exit
+xrandr --output DP-2 --brightness 0.4
+exit
+clear
+tmuxifier ls
+exit
+tmuxifier ls
+tmuxifier event-manager-go
+tmuxifier s event-manager-go
+clear
+ls
+cd Documents/GitHub
+ls
+cd super-couscous/
+ls
+go-http2
+mkdir go-http2
+clear
+ls
+cd go-http2/
+go mod init go-http2
+ls
+nvim
+clear
+nvim
+exit
+tmux
+nvim -u
+go run .
+clear
+exit
+go --version
+go version
+exit
+xrandr --output DP-2 --brightness 1
+exit
+yay -S discord
+yay -S discord-desktop
+flatpak install discord
+exit
+sudo pacman -Sy discord
+go mod install gin
+$ go get -u github.com/gin-gonic/gin
+go get -u github.com/gin-gonic/gin
+exit
+go run .
+ls
+mkdir ./testdata
+ls
+mkcert --help
+man mkcert
+cd testdata/
+mkcert server
+go run .
+ls
+cd ..
+go run .
+go --version
+exit
+mkcert -install
+mkcert localhost
+ls
+cd testdata/
+ls
+rm -rf
+rm -rf *
+clear
+mkcert localhost
+exit
+tmux -u
+clear
+cd ..
+ls
+cd ..
+l
+git clone https://git.codecrafters.io/0a33c762575d7050 codecrafters-http-server-go && cd codecrafters-http-server-go
+tmuxifier ls
+tmux ls
+cd Documents/GitHub
+ls
+cd codecrafters-http-server-go/
+git clone https://git.codecrafters.io/0a33c762575d7050 codecrafters-http-server-go && cd codecrafters-http-server-go
+nvim
+git log
+git add .
+git status
+git commit -m "pass 1st stage"
+git push origin master
+nvim
+clear
+exit
+clear
+ls
+clear
+tmuxifier ls
+tmux ls
+tmux l
+ls
+git status
+git graph
+git chart
+git graph
+clear
+nvim
+exit
+tmuxifier s nvim
+clear
+ls
+nvim .gitconfig
+clear
+cd Documents/GitHub
+clear
+tmux ls
+tmuxifier ls
+tmuxifier ls event-manager-go
+nvim
+exit
+tmuxifier s event-manager-go
+clear
+ls
+cd super-couscous/
+ls
+cd go-http2/
+nvim
+cd ..
+nvim ~/.tmuxifier/templates/session.sh
+nvim ~/.tmuxifier/layouts/event-manager-go.session.sh
+tmuxifier s go-http
+cd Documents/GitHub/
+ls
+cd super-couscous/
+ls
+mkdir go-client
+cd go-client/
+go mod init go-client
+ls
+nvim
+clear
+tmux new -u -s go-client
+clear
+go run . version 1
+go get golang.org/x/net/http2
+go run . version 1
+go run main.go
+vlc
+clear
+exit
+clear
+htop
+exit
+nvim\
+nvim ~/.config/nvim
+nvim /etc/systemd/logind.conf
+sudo nvim /etc/systemd/logind.conf
+exit
+exit
+sudo reboot now
+tmuxifier ls
+tmuxifier event-manager-go
+tmuxifier ns event-manager-go
+openssl req -newkey rsa:2048 -nodes -keyout server.key -509 -days 365 -out server.crt
+openssl req -newkey rsa:2048 -nodes -keyout server.key -x509 -days 365 -out server.crt
+go run main.go
+xrandr --output DP-2 --brightness .6
+exit
+go run main.go
+xrandr --output DP-2 --brightness 1
+exit
+yay -Syu
+yay -R kpeoplevcard
+shoutdown now
+sudo pacman -Syu
+pacman -R kpeoplevcard
+sudo pacman -R kpeoplevcard
+pamac search kpeople5
+pamac checkupdates --force-refresh
+pamac checkupdates --aur
+sudo pacman -Syu kpeoplevcard or sudo pacman -Syuu
+sudo pacman -Syu kpeoplevcard 
+sudo pacman -Rns npm
+sudo rm -R /usr/lib/node_modules/npm/
+sudo rm -R /usr/share/man/man1/
+sudo pacman -Syu kpeoplevcard 
+clear
+sudo pacman -Syu
+clear
+exit
+clearx
+clear
+ls
+clear
+tmuxifier ls
+tmuxifier event-manager-go
+ls
+cd ~/.config
+cd i3/
+ls
+xtitle
+exit
+battery
+exit
+upower
+clear
+battop
+yay -S battop
+battop
+battop --help
+battop -u
+nvim
+exit
+exit
+shoutdown now
+shutdown now
+tmuxifier ls
+yay -Sy google-chome-stable
+exit
+sudo pacman -Syu
+exit
+yay -S google-chrome-stable
+go run main.go
+yay -S google-chrome
+go run main.go
+ls
+cat main.go
+l
+exit
+go run .
+yay -S firefox-dev
+yay -S google-chrome-dev
+clear
+yay -S firefox-developer-edition
+exit
+go run .
+shutdown now
+tmuxifier ls
+nghttp
+yay -S nghttp
+yay -S nghttp2
+sudo pacman -S nghttp
+sudo pacman -S nghttp2
+clear
+yay -S nghttp2
+yay -S libnghttp2
+yay -S nghttp2
+nghttp
+nghttp2
+clear
+yay -S nghttp2
+sudo pacman -S nghttp2
+sudo pacman -S nghttp\
+sudo pacman -S nghttp
+sudo pacman -S nghttp2-bin
+yay -S nghttp3
+yay -S autoreconf
+yay -S autoconf
+yay -S nghttp3
+sudo pacman -S nghttp3
+sudo pacman -S nghttp3-bin
+yay -S nghttp3
+clear
+cd Documents/GitHub/super-couscous/
+ls
+mv go-http2/* http1vshttp2/
+cd http1vshttp2/
+ls
+cd image/
+ls
+unzip `./Pictures with faces.zip`
+ls
+cd Faces
+ls
+nvim
+ls
+cd ..
+ls
+rm `Pictures with faces.zip`
+mv Faces/* ./
+ls
+rm Faces/
+cd ..
+cd Documents/GitHub/super-couscous/http1vshttp2/
+tmuxifier s event-manager-go
+exit
+go run .
+cd Documents/GitHub/super-couscous/http1vshttp2/
+ls
+clear
+cd Documents/GitHub/super-couscous/http1vshttp2/
+go run .
+alacritty migrate
+exit
+ls
+cd Documents/GitHub/
+ls
+cd the-navin-p/
+ls
+git status
+nvim
+ls
+clear
+nvim
+exit
+tmux 
+clear
+cd Documents
+ls
+cd test/
+ls
+cat hi.txt
+rm -r hi.txt
+ls
+cat hi.txt
+greenclip
+yay -S greenclip
+exit
+ls
+cat hi.txt
+ls
+nvim
+git status
+lazygit
+htop
+clear
+exit
+cd Documents/GitHub/
+clear
+git clone git@github.com:sugan0tech/Event-Manager-Web.git
+nvim
+clear
+cd ..
+ls
+cd Event-Manager/
+ls
+nvim
+exit
+tmux -u
+exit
+exit
+java --version
+exit
+archlinux-javac --help
+archlinux-java
+archlinux-java set status
+sudo archlinux-java status
+archlinux-java set java-11-openjdk
+sudo archlinux-java set java-11-openjdk
+sudo archlinux-java set java-21-openjdk
+java --version
+xset b off
+exit
+mariadb
+clear
+ls
+clear
+exit
+clear
+tmuxifier ls
+tmuxifier the-navin-p
+tmux ls
+exit
+greenclip
+yay -S libHserver
+yay -S libHSvector
+yay -S libHSvector-0
+yay -S greenclip
+greenclip
+cler
+sudo pacman -Syuu
+exit
+nmcli dev wifi
+nmcli dev wifi connect "ACT103698209815_5g" password "10081101"
+clear
+ls
+cd Documents/GitHub/
+ls
+cd Event-Manager-Web/
+ls
+exit
+ls
+pwd
+clear
+cd Documents/GitHub/Event-Manager-Web/
+node --version
+npm --version
+bash
+exit
+yay -S node
+node --version
+yay -S node
+sudo pacman -S nodejs
+clear
+node --version
+clear
+npm --version
+sudo pacman -S npm
+clear
+npm --version
+clear
+npm --version
+yay -S wireshark
+yay -S wireshark-bin
+yay -S wireshark
+sudo pacman -S wireshark
+sudo pacman -S @ireshark
+sudo pacman -S Wireshark
+sudo pacman -S Wireshark-qt
+sudo pacman -S wireshark-qt
+clear
+exit
+ls
+clear
+clear
+exit
+exit
+sudo pacman -Syuu
+clear
+kotlinc --version
+nvim
+clear
+exit
+clear
+tmuxifier ls
+clear
+tmuxifier
+clear
+cd Documents/GitHub/Event-Manager-Web/
+ls
+nvim
+cd ~/.config/nvim
+nvi
+nvim
+nvim
+exit
+clear
+ls
+exit
+nmcli dev wifi
+nmvli dev wifi connect "94:E3:EE:06:B1:DA" password "YkaKwUx7"
+nmcli dev wifi connect "94:E3:EE:06:B1:DA" password "YkaKwUx7"
+node --version
+npm install svelte
+ls
+cd Documents/GitHub/Event-Manager-Web/
+npm install -g sirv-cli
+sudo npm install -g sirv-cli
+sirv public
+sirv index
+ls
+nvim
+npm create svelte@latest Event-Manager-Web
+ls
+rm -rf Event-Manager-Web/
+npm create svelte@latest Event-Manager-Web
+ls
+cd Event-Manager-Web/
+ls
+cd src
+ls
+cd ..
+npm install
+svelte run dev
+exit
+yay -Sy google-chrome
+exit
+npm run dev
+exit
+nvim ~/.config/nvim
+cd ~/.config/nvim
+nvim
+nvim
+exit
+nvim
+exit
+exit
+clear
+nvim
+ls
+npm create svelte@latest Event-Manager-Web
+ls
+cd Event-Manager-Web/
+ls
+cp * ../
+cp -r * ../
+ls
+cd ..
+ls
+rm -rf Event-Manager-Web/
+clear
+npm install
+nvimi
+cd Documents/GitHub/Event-Manager-Web/
+ls
+clear
+ls
+clear
+curl -s https://ngrok-agent.s3.amazonaws.com/ngrok.asc \<\n>  | sudo tee /etc/apt/trusted.gpg.d/ngrok.asc >/dev/null && echo "deb https://ngrok-agent.s3.amazonaws.com buster main" \<\n>  | sudo tee /etc/apt/sources.list.d/ngrok.list && sudo apt update && sudo apt install ngrok
+bash
+yay -S ngrok
+ngrok config add-authtoken 2Kg6d8fQ4YY85yodtUCIm5qsiA0_41Xam4WWJansQMC22k7og
+ngrok http http://localhost:8080
+ngrok http --domain=event-manager.ngrok-free.app 8080
+ngrok http --domain=perfect-duckling-multiply.ngrok-free.app 8080
+nmcli dev wifi
+nmcli dev wifi connect "Vijay's Network" password "Qwerty@123"
+nmcli dev wifi
+nmcli dev wifi connect "Vijay's Network" password "Qwerty@123"
+nmcli dev wifi connect "66:43:73:60:1B:B7" password "Qwerty@123"
+nmcli dev wifi
+nmcli dev wifi connect "AKLAB" password "$kcet@123"
+nmcli dev wifi
+nmcli dev wifi connect "CA:99:57:51:61:17" password "Viswa1003"
+nmcli dev wifi connect "AKLAB" password "$kcet@123"
+ngrok http --domain=possible-flamingo-large.ngrok-free.app 8080
+shutdown now
+mariadb
+cd Documents/GitHub/Event-Manager
+git status
+git push
+mariadb
+exit
+cd Documents/GitHub/Event-Manager
+git commit --amend -m "Core optimisation BitSet to custom implementation. closes #70"
+git push
+git push --force-with-lease
+exit
+greenclip
+greenclip daemon>/dev/null
+greenclip
+yay -S libHSvector-0
+yay -S libHSvector
+docker
+shutdown now
+tmuxifier ls
+cd Documents/GitHub/Event-Manager
+ls
+cd Documents/GitHub/Event-Manager-Web/
+ls
+geenclip
+yay -S greenclip
+greenclip
+sudo pacman -F libHSvector
+sudo pacman -S greenclip
+hashkell
+clear
+yay -S ghc-libs
+yay -S ghc
+yay -Syu
+greenclip
+exit
+nvim
+tmuxifier
+tmuxifier new-session event-manager
+nvm /home/sugan/.tmuxifier/layouts/event-manager.session.sh
+cd Documents/GitHub/Event-Manager-Web/
+cd ..
+cd Event-Manager
+cd Documents/GitHub/Event-Manager
+mvn run
+mvn clean instalkl
+mvn clean install
+mvn deploy
+clear
+nvim /home/sugan/.tmuxifier/layouts/event-manager.session.sh
+nvim /home/sugan/.tmuxifier/layouts/event-manager-go.session.sh
+tmuxifier ls
+tmuxifier event-manager
+tmuxifier s event-manager
+exit
+nvim /home/sugan/.tmuxifier/layouts/event-manager.session.sh
+clear
+tmuxifier 
+tmuxifier ns event-manager-web
+cd ..
+ls
+cd Event-Manager-Web/
+npm start
+svelte run dev
+ls
+svelte run
+bash
+ls
+npm 
+npm run dev
+nvim /home/sugan/.tmuxifier/layouts/event-manager-web.session.sh
+tmuxifier ls event-manager-web
+tmuxifier s event-manager-web
+exit
+cd Documents/GitHub/Event-Manager-Web/
+ls
+nvim
+nvim /src
+nvim src/routes/+page.svelte
+nvim /home/sugan/.tmuxifier/layouts/event-manager-web.session.sh
+exit
+tmuxifier s event-manager-web
+nvim
+exit
+mariadb
+exit
+mongosh
+exit
+xset b off
+exit
+mariadb
+ngrok http --domain=possible-flamingo-large.ngrok-free.app 9000
+exit
+ngrok http --domain=possible-flamingo-large.ngrok-free.app 8080
+exit
+yay -S ngnix
+yay -S nginx
+exit
+tmuxifier s event-manager
+tmuxifier ls
+tmux ls
+tmux a -u
+tmux -u a
+cd ..
+ls
+git clone git@github.com:sugan0tech/CampusSyncExport.git
+ls
+cd 
+exit
+cd Documents/GitHub/CampusSyncExport/
+ls
+go mod init CampusSyncExport
+ls
+cd Documents/GitHub/CampusSyncExport/
+clear
+go run .
+go get go.mongodb.org/mongo-driver/mongo<\n>
+clear
+tmuxifier ls
+nvim
+exit
+cd Documents/GitHub/CampusSyncExport/
+go get github.com/labstack/echo/v4
+go get go.mongodb.org/mongo-driver/mongo<\n>
+$ go get -u github.com/gin-gonic/gin
+go get -u github.com/gin-gonic/gin
+clear
+tmux ls
+tmux -a
+go get -u github.com/gin-gonic/gin
+nvim
+go run .
+tmuxifier s event-manager-go
+exit
+ls
+cat /etc/nginx/nginx.conf
+nvim /etc/nginx/nginx.conf
+sudo chmod 777 /etc/nginx/nginx.conf
+sudo systemctl restart nginx
+sudo systemctl start nginx
+sudo systemctl restart nginx
+cd Documents/GitHub/super-couscous/
+cd event-manager-go/
+nvim
+exit
+cd Documents/GitHub/super-couscous/
+cd event-manager-go/
+go run .
+nvim
+exit
+sudo systemctl restart nginx
+nvim /etc/nginx/nginx.conf
+ls
+cd /etc/nginx/
+ls
+mkdir sites-available
+sudo mkdir sites-available
+cd sites-available/
+cd /etc/nginx/\
+cd /etc/nginx/
+ls
+cd sites-available/
+ls
+touch evevnt-manager.conf
+sudo touch evevnt-manager.conf
+ls -la
+chmod 777 evevnt-manager.conf
+ls
+ls -la
+chmod 777 evevnt-manager.conf
+sudo chmod 777 evevnt-manager.conf
+nvim evevnt-manager.conf
+ls -la
+nvim evevnt-manager.conf
+sudo nginx -t
+ls
+sudo systemctl restart nginx
+nmcli dev wifi
+nmvli dev wifi connect "Sugavanesh's iPhone" password "12345678";
+nmvli dev wifi connect "Sugavanesh's iPhone" password "12345678"
+nmcli dev wifi connect "Sugavanesh's iPhone" password "12345678"
+nmvli dev wifi
+nmcli dev wifi
+nmcli dev wifi connect "2A:95:E0:D6:4D:BA" password "12345678"
+nmcli dev wifi
+nmcli dev wifi connect "Sugavanesh's iPhone" password "12345678"
+nmcli dev wifi connect "E6:2F:B2:20:23:9B" password "12345678"
+exit
+systemctl status nginx
+clear
+exit
+mongosh
+exit
+ls
+cd ..
+ls
+cd sites-available/
+ls
+touch event-manager.conf
+sudo touch event-manager.conf
+sudo nvim event-manager.conf
+sudo systemctl restart nginx
+exit
+sudo nvim event-manager.conf
+ls
+cat /etc/nginx/sites-available/event-manager.conf
+ls
+cd /etc/nginx/sites-available/
+ls
+rm event-manager.conf evevnt-manager.conf
+sudo rm event-manager.conf evevnt-manager.conf
+clear
+exit
+sudo systemctl restart nginx
+sudo /etc/init.d/nginx reload
+ngins reload
+nginx reload
+nginx --help
+nginx reload
+nginx 
+sudo nginx reload
+sudo nginx help
+sudo nginx
+sudo nginx -reload
+sudo nginx reload
+sudo ufw 
+ufw
+yay -S ufw
+sudo ufw app list
+sudo ufw app allow 'Nginx HTTP'
+sudo ufw allow 'Nginx HTTP'
+sudo ufw status
+sudo ufw
+sudo ufw start
+sudo ufw enable
+sudo ufw status
+sudo ufw enable 'nginx'
+sudo ufw allow 'Nginx HTTP'
+sudo ufw allow 'Nginx full'
+sudo ufw allow 'Nginx Full'
+sudo ufw disablew
+sudo ufw disable
+exit
+sudo systemctl restart nginx
+systemctl status nginx
+exit
+sudo systemctl restart nginx
+sudo nvim event-manager
+ls
+cd ..
+ls
+nvim /etc/nginx/sites-available/event-manager
+sudo systemctl restart nginx
+nginx
+nginx -v
+cat /var/log/nginx/access.log
+sudo systemctl restart nginx
+exit
+exit
+exit
+nvim /etc/nginx/nginx.conf
+exit
+nvim nginx.conf
+exit
+apt update
+packman update
+soeu
+tmuxifier ls
+tmuxifier s event-manager-go
+tmuxifier ls
+ls
+clear
+exit
+clear
+cd Documents/GitHub
+ls
+cd CampusSyncExport/
+ls
+cd Documents/GitHub/CampusSyncExport/
+cd /etc/nginx/sites-available/\
+cd /etc/nginx/sites-available/
+cd /etc/nginx/sites-available
+ls
+nmcli dev wifi
+sudo systemctl restart nginx
+nvim event-manager
+cd ..
+ls
+nvinm nginx.conf
+nvim nginx.conf
+cd sites-available/
+ls
+rm event-manager
+sudo rm event-manager
+cd ..
+nginx
+sudo nginx
+ngrok http --domain=possible-flamingo-large.ngrok-free.app 8080
+sudo systemctl restart nginx
+nvim nginx.conf
+exit
+go run .
+cd ~/.config/nvim
+ls
+nvim
+nvim
+go run .
+yay build greenclip
+greenclp
+greenclip
+hashkell
+yay -S hashkell
+yay -S haskell
+nmcli dev wifi
+yay -S haskell-aur
+nmcli dev wifi connect "78:8C:B5:01:A9:4B" password "Luxoliv301"
+nmcli dev wifi connect "78:8C:B5:01:A9:4B" password "Luxoliv@301"
+exit
+nvim
+ls
+nvim init.lua
+nvim
+nvim init.lua
+nvim
+nvim init.lau
+nvim init.lua
+cd ~/.config/nvim
+nvim
+exit
+nvim
+exit
+cd Documents/GitHub/CampusSyncExport/
+exit
+exit
+xrandr --output DP-2 --brightness .6
+exit
+cd Documents/GitHub/CampusSyncExport/
+go run .
+k
+go run .
+cd Documents/GitHub
+git clone git@github.com:radian-software/riju.git
+cd riju/
+ls
+cd Documents/GitHub/riju/
+ls
+clear
+$ make image shell I=admin
+docker ps
+sudo docker ps
+nvim
+make tmux
+dep image:runtime
+clear
+ls
+clear
+exit
+cd Documents/GitHub/riju/
+make shell I=runtime E=1 CMD="make dev"
+cd Documents/GitHub/riju/
+dep image:runtime
+bash
+$ make sync-ubuntu
+make sync-ubuntu
+dep image:runtime
+dep ensure
+ls
+cd backend/
+dep image:runtime
+dep ensure
+ls
+nvim
+make image shell I=admin
+ls
+sudo docker ps
+cd ..
+make sync-ubuntu
+dep image:runtime
+ls
+cd cli/
+ls
+cd ..
+ls
+make image shell I=admin
+clear
+exit
+exit
+tmuxifier 
+tmuxifier new-session campus-sync
+exit
+mongo
+exit
+mongosh
+exit
+tmuxifier ls
+cd Documents/GitHub/
+ls
+exit
+tmuxifier s campus-sync
+nvim /home/sugan/.tmuxifier/layouts/campus-sync.session.sh<\n>
+ls
+exit
+shutdown now
+exit
+shutdown now
+sh <(curl -L https://nixos.org/nix/install) --daemon
+nix-shell
+bash
+exit
+zsh
+exit
+nix-shell
+nix-shell -p
+bash
+exit
+nmcli dev wifi
+exit
+nmcli dev wifi
+exit
+nginx
+sudo nginx
+systemctl status nginx
+sudo systemctl restart nginx
+sudo systemctl start nginx
+systemctl enable nginx
+sudo systemctl start nginx
+systemctl status nginx
+sudo systemctl start nginx
+systemctl status nginx
+netstat -anpe | grep "80" | grep "LISTEN"
+kill 385675
+sudo systemctl start nginx
+systemctl status nginx
+sudo apachectl stop
+apache
+apache2
+sudo pkill -f nginx & wait $!<\n>sudo systemctl start nginx
+htop
+exit
+git@github.com:Vichuviswa/CMS-Project.git
+cd Documents/GitHub/
+git clone git@github.com:Vichuviswa/CMS-Project.git
+ls
+cd CMS-Project/
+ls
+pwd
+exit
+sudo nginx
+exit
+htop
+exit
+eit
+exit
+nvim
+exit
+cd Documents/GitHub/Event-Manager-Web/
+ls
+nvim
+git status
+ls
+nvim
+cd ..
+rm -rf Event-Manager-Web/
+git clon egit@github.com:sugan0tech/Event-Manager-Web.git
+git clone git@github.com:sugan0tech/Event-Manager-Web.git
+ls
+cd Event-Manager-Web/
+ls
+nvim
+ls
+unzip sugu.zip
+ls
+cd sugu
+mv . ..
+mv . ../
+mv . .././
+mv . ./../
+ls
+mv * ../
+ls
+cd ..
+rm sugu/
+ls
+rm sugu.zip
+ls
+git status
+git add .
+git commit -m "rollback to plain old html"
+git push
+sudo systemctl start nginx
+sudo systemctl status nginx
+sudo systemctl enable nginx
+sudo systemctl status nginx
+git pull
+exit
+nginx
+sudo systemctl status nginx
+sudo systemctl restart nginx
+exit
+cd Documents/GitHub/Event-Manager-Web/
+git fetch
+pwd
+nvim
+git pull
+git config pull.rebase false 
+git pull
+git log
+nvim
+git pull force
+git reset HEAD~1
+git pull
+git stash
+git pull
+git status
+nvim
+git pull
+git status
+git stash pop
+google-chrome-stable
+exit
+yay -S elastic-search
+yay -S elasticsearch
+exit
+yay -S docker-desktop
+ping google.com
+exit
+cd Documents/GitHub
+ls
+cd Documents/GitHub
+git clone git@github.com:sugan0tech/anand.git
+ls
+cd anand/
+ls
+nvim inde.html
+exit
+cd Documents/GitHub/Event-Manager-Web/
+ls
+clear
+ls
+nvim
+clear
+ls
+pwd
+clear
+ls
+xrandr --output DP-2 --brightness 1
+clear
+xrandr --output DP-2 --brightness .6
+exit
+cd ..
+ls
+git clone git@github.com:we45/Gauge-OWASP-ZAP.git
+ls
+cd Gauge-OWASP-ZAP/
+ls
+clear
+ls
+python3 -m venv
+ls
+pip install -r requirements.txt
+ls
+source myenv/bin/activate
+source env/bin/activate
+ls
+nvim
+python -m venv myenv
+ls
+pip install -r requirements.txt
+cd Documents/GitHub/Gauge-OWASP-ZAP/
+ls
+xrandr --output DP-2 --brightness 1
+exit
+pfetch
+cpufetch
+neo-fetch
+neofetch
+bash
+exit
+yay -S cpufetch
+cpufetch
+yay -S pfetch
+pfetch
+neofetch
+cpufetch
+cd ~/.config/nvim
+nvim
+exit
+exit
+xset b off
+exit
+greenclip
+yay -S haskell-aur
+yay -S rofi-greenclip
+rofi-greenclip
+greenclip
+exit
+xrandr --output DP-2 --brightness .6
+exit
+ls
+clear
+xrandr --output DP-2 --brightness 1
+exit
+cd ~/.config/nvim
+exit
+nvim ~/.tmuxifier/layouts/campus-sync.session.sh
+exit
+xrandr --output DP-2 --brightness 1
+exit
+shutdown now
+xrandr --output DP-2 --brightness .8
+exit
+xrandr --output DP-2 --brightness .6
+exit
+shutdown now
+exit
+ls
+cd Documents/GitHub/
+git clone git@github.com:sugan0tech/student_task_manager.git
+yay -S flutter
+clear
+exit
+tmuxifier s campus-sync
+clear
+ls
+cd Documents/GitHub/
+ls
+git clone git@github.com:sugan0tech/rust-learn.git
+cd Documents/GitHub/
+cd rust-learn/
+git clone git@github.com:juspay/hyperswitch.git
+cd hyperswitch/
+docker-compose up -d
+docker-compose
+docker
+docker compose
+ls
+yay -S docker-compose
+nvim
+exit
+nvim
+exit
+nvim
+exit
+nvim
+exit
+nvim
+exit
+rustup
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+exit
+nvim
+exit
+nvim
+sudo docker-compose up -d
+yay -S docker-compose
+rustup
+exit
+$ curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf | sh<\n>
+curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf | sh<\n>
+bash
+exit
+nvim ~/.config/nvim
+exit
+bash
+exit
+cd Documents/GitHub/
+ls
+rustc
+ls
+clear
+cargo
+bash
+exit
+ls
+cd Documents/GitHub/
+ls
+cd hyperswitch/
+l
+docker-compose
+yay -S docker-compose
+EXIT
+YAY
+yay
+eit
+exit
+rm /var/lib/pacman/db.lck
+sudo rm /var/lib/pacman/db.lck
+cd Documents/GitHub/
+ls
+cd rust-learn/
+cd Documents/GitHub/rust-learn/
+cargo run
+ls
+rustc ./main.rs
+yay -Syu
+lc
+clear
+shutdown now
+yay -S docker-compose
+docker-compose
+ls
+cd Documents/GitHub/rust-learn/
+cd ..
+ls
+cd hyperswitch/
+docker-compose up -d
+sudo docker-compose up -d
+sudo docker images
+sudo docker-compose up -d
+sudo docker ps
+ls
+cd Documents/GitHub/rust-learn/
+ls
+clear
+cd Documents/GitHub/hyperswitch/
+ls
+sudo docker-compose up -d
+curl --head --request GET 'http://localhost:8080/health'
+ls
+cd Documents/GitHub/rust-learn/
+ls
+cd ~/.config/nvim
+nvim
+exit
+nvim
+exit
+nvim
+exit
+nvim
+exit
+nvim
+nvim
+exit
+cd Documents/GitHub/rust-learn/
+cd ..
+cd hyperswitch/
+cd Documents/GitHub/rust-learn/
+cargo run
+nvim ~/.config/nvim
+exit
+nvim
+cargo build
+nvim ~/.config/nvim
+nvm
+nvim
+exit
+nvim ~/.config/nvim
+cd ~/.config/nvim
+nvim
+nvim
+exitr
+exit
+cargo build
+cargo run
+nix-shell -p
+exit
+ls
+zsh
+exit
+zsh
+exit
+git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ~/powerlevel10k<\n>echo 'source ~/powerlevel10k/powerlevel10k.zsh-theme' >>~/.zshrc
+zsh
+yay -S --noconfirm zsh-theme-powerlevel10k-git<\n>echo 'source /usr/share/zsh-theme-powerlevel10k/powerlevel10k.zsh-theme' >>~/.zshrc
+nvim ~/.zshrc
+zsh
+exit
+exit
+clear
+exit
+nu
+exit
+cd Documents/GitHub/rust-learn/
+clear
+ls
+cargo run
+clear
+greenclip
+greenclip clear
+exit
+cd Documents/GitHub/rust-learn/
+cargo run
+bpytop
+htop
+yay -S zoom
+xrandr --output DP-2 --brightness .6
+shutdown now
+exit
+nvim
+clear
+ls
+clear
+rofi-greenclip
+bash
+greenclip clear
+clear
+exit
+nmcli dev wifi
+clear
+nmcli dev wifi
+nmcli dev wifi connect "iPhone" password "12345678"
+clear
+exit
+cd Documents/GitHub/
+ls
+ls -la
+ls -ls
+clear
+git clone git@github.com:sugan0tech-presidio/tasks.git
+clear
+ls
+cd tasks/
+ls
+cd Day15/
+ls
+nvim
+clear
+tmux
+clear
+yay -S kitty
+ls
+ranger
+clear
+ls
+hollywood
+edex-ui
+hollywood
+clear
+exit
+exit
+mairadb
+nmcli dev wifi
+exit
+mariadb
+cd Documents/GitHub/tasks/Day15/
+ls
+nvim employees.sql
+pwd
+nvim employees.sql
+git status
+nvim employees.sql
+shutdown now
+nmcli dev wifi
+<\n><\n><\n><\n>
+nmcli dev wifi
+xrandr --output DP-2 --brightness .6
+clear
+nmcli dev wifi
+nmcli dev wifi connect "iPhone" password "12345678"
+clear
+ls
+clear
+exit
+ls
+clear
+greenclip print
+clear
+exit
+ls
+ranger
+ls
+cd Documents/GitHub/rust-learn/
+ls
+clear
+ls
+cd Documents/GitHub/rust-learn/
+clear
+cargo run
+htop
+nvidia-smi
+clear
+cd ..
+cd tasks/
+cd Day15/
+ls
+nmcli dev wifi connect "iPhone" password "12345678"
+nmcli dev wifi
+nmcli dev wifi connect "iPhone" password "12345678"
+ls
+clear
+ls
+clear
+nvim
+clear
+tmuxifier ls
+tmuxifier s campus-sync
+ls
+clear
+tmux -a
+tmux
+ls
+curl -fsSL https://ollama.com/install.sh | sh
+ollama
+cuda
+nnvidia-smu
+nvidia-smi
+ollama run llama3
+shutdown now
+nvim
+tmuxifier 
+tmuxifier l
+ping google.com
+exit
+yay -S guvcview
+yay -S wxcam
+yay -S guvcview
+gdu
+exit
+shutdown now
+htop
+shutdown now
+xrandr --output DP-2 --brightness .6
+shutdown now
+xrandr --output DP-2 --brightness .6
+shutdown now
+xrandr --output DP-2 --brightness .6
+shutdown now
+nvim
+clear
+exit
+yay -S teams
+clear
+yay -S microsoft-teams
+yay -S teams
+sudo vscode
+vs-code
+code
+sudo code
+exit
+yay -Syu
+clear
+shutdown now
+gdu
+clear
+ls
+clear
+neofetch
+pfetch
+clear
+nix-shell
+nix-shell -p
+exit
+ls
+cd Documents/GitHub/
+ls
+clear
+ls
+clear
+git clone git@github.com:sugan0tech-presidio/MiniProject.git
+clear
+ls
+cd MiniProject/
+nvim
+clear
+yay -Syu
+clear
+sudo pacman -S dotnet
+sudo pacman -S sql-server
+sudo pacman -S mssql-server
+yay -S mssql-server
+yay -S mssql-tools
+yay -S dotnet
+yay -S dotnet-sdk-bin
+dotnet
+clear
+yay -S nuget
+nuget
+clear
+mssql
+mssql-server
+exit
+mssql-server
+bash
+systemctl status mssql-server
+systemctl enable mssql-server
+systemctl status mssql-server
+systemctl start mssql-server
+systemctl status mssql-server
+/opt/mssql/bin/mssql-conf setup
+sudo /opt/mssql/bin/mssql-conf setup
+systemctl start mssql-server
+systemctl status mssql-server
+yay -S DBeaver
+mvn --version
+archlinux-java set java-21-openjdk
+sudo archlinux-java set java-21-openjdk
+mvn --version
+yay -U mvn
+yay -U maven
+yay -S maven
+mvn --version
+mvn -rf :org.jkiss.dbeaver.launcher
+yay -S DBeaver
+mssql-server
+sql-server
+mssql-cli
+yay -S mssql-cli
+yay -S unixodbc-dev
+exit
+yay -S google-chrome
+dotnet
+clear
+dotnet --version
+exit
+dcoker
+sudo docker
+exit
+nix-shell -p
+exit
+dotnet --version
+dotnet --info
+cd Documents/GitHub/MiniProject/
+cd Matrimony/
+dotnet --run
+dotnet
+dotnet run
+ls
+cd MatrimonyApiService/
+dotnet run
+dotnet tool install --global dotnet-ef
+dotnet ef
+dotnet-ef
+clear
+dotnet run
+dotnet --info
+dotnet --list-runtimes
+yay -S aspnetcore-runtime
+yay -S aspnet-runtime
+dotnet --list-runtimes
+dotnet run
+clear
+dotnet ef database update
+dotnet tool install --global dotnet-ef
+export PATH="$PATH:/home/sugan/.dotnet/tools"
+exit
+nu
+exit
+cd .config/nushell/
+ls
+dotnet ef
+exit
+dotnet ef
+exit
+dotnet ef
+nushell
+doenet ef
+bash
+exit
+nu
+exit
+ranger
+clear
+exit
+doenet ef
+ranger
+clear
+exit
+doenet 
+dotnet
+dotnet
+dotnet ef
+nvim
+cd ..
+nvim
+exit
+dotnet ef database update
+hostname
+dotnet ef database update
+exit
+nu
+dotnet ef database update
+yay -S teams
+clear
+exit
+cd Documents/GitHub/tasks/
+git pull
+htop
+yay -S discord-desktop
+yay -S discord
+clear
+exit
+dotnet ef database update
+exit
+bash
+exit
+htop
+gdu
+clear
+ranger
+nix-shell -p
+clear
+shutdown now
+nmcli dev wifi
+nmcli dev wifi connect "sumathi_2.4" password "1234@sugan"
+exit
+ls
+cd Documents/GitHub/tasks/
+ls
+nvim ~/.config/nvim/
+exit
+nvim
+yay -S bat
+ls
+cd Documents/GitHub/tasks/
+cd 14_6_2024/
+ls
+bat index.html
+man bat
+clear
+exit
+gdu
+exit
+nvidia-smi
+exit
+ollama run codestral
+ollama 
+ollama run llama3
+exit
+htop
+exit
+yay -S discord
+exit
+cd Downloads/ls
+ls
+cd Downloads/
+ls
+yay -S discord
+clear
+yay -S discord
+sudo pacman -S discord
+tar
+ls
+tar xf discord-0.0.57.tar.gz
+ls
+cd Discord/
+ls
+make
+ls
+cd Downloads/
+ls
+cd Discord/
+ls
+cd Documents/GitHub/tasks/
+ms
+mssql-cli
+systemctl status mssql-server
+/opt/mssql-tools/bin/sqlcmd -S localhost -U sa -P 'Sugan@123'<\n>
+/opt/mssql-tools/bin/sqlcmd -S localhost -U sa -P 'Sugan@123'<\n> -C
+/opt/mssql-tools/bin/sqlcmd -S localhost -U sa -P 'Sugan@123' -C
+clear
+/opt/mssql-tools/bin/sqlcmd -S localhost -U sa -P 'Sugan@123' -C
+cd Documents/GitHub/MiniProject/
+ls
+cd Matrimony/
+ls
+dotnet ef database update
+ls
+cd MatrimonyApiService/
+dotnet ef database update
+exit
+alsactl
+xset b off
+exit
+exit
+exit
+curl --location 'http://localhost:5094/api/User/email/suganfk@gmail.com' \<\n>--header 'Accept: text/plain' \<\n>--header 'Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1lIjoiMSIsImh0dHA6Ly9zY2hlbWFzLnhtbHNvYXAub3JnL3dzLzIwMDUvMDUvaWRlbnRpdHkvY2xhaW1zL2VtYWlsYWRkcmVzcyI6InN1Z2FuZmtAZ21haWwuY29tIiwiaHR0cDovL3NjaGVtYXMubWljcm9zb2Z0LmNvbS93cy8yMDA4LzA2L2lkZW50aXR5L2NsYWltcy9yb2xlIjoiVXNlciIsImV4cCI6MTcxODg2MTIyN30.jcxO_Pb_JiDndkKipZmh7VLKoWEFOonuJI8z6H2HjIs'
+bash
+exit
+npm 
+npm i -g vscode-langservers-extracted
+sudo npm i -g vscode-langservers-extracted
+sudo npm install -g vscode-langservers-extracted
+nvim
+nvim ~/.config/nvim/
+nvim
+exit
+npm install -g typescript typescript-language-server<\n>npm install -g vscode-css-languageserver-bin<\n>
+sudo npm install -g typescript typescript-language-server<\n>npm install -g vscode-css-languageserver-bin<\n>
+sudo npm install -g vscode-css-languageserver-bin
+nvim
+clear
+exit
+htop
+exit
+./Discord
+htop
+exit
+ls
+cd Downloads/
+ls
+cd Discord/
+ls
+nmcli dev wifi
+exit
+shutdown now
+yay -S discord
+exit
+yay -S discord
+exit
+cd Documents/GitHub/tasks/
+xset b off
+exit
+nvim ~/.config/nvim/
+cd Documents/GitHub/MiniProject/
+cd Matrimony/
+ls
+cd MatrimonyApiService/
+nvim .
+exit
+cd Downloads/Discord/
+mongosh
+exit
+node --version
+exit
+cd Documents/GitHub/tasks/20_6_2024/myapp/
+npm test
+clear
+npm test
+ls
+npm test
+npm install -D jest-environment-jsdom
+npm test
+nvim
+nvim some.txt
+exit
+ls
+cd ..
+git status
+git statuws
+git commit -m "init: ui tests"
+git push
+cd task/
+ls
+npm init
+npm install -D jest-environment-jsdom
+npm install jest
+npm install jsdom
+clear
+npm run test
+npm test
+git status
+./Discord
+cd ../..
+ls
+cd `21_6_2024 oops in js/`
+ls
+node oop.js
+cd Downloads/Discord/
+yay -S discord
+exit
+yay -S obs
+yay -S obs-studio
+obs
+yay -S libpython3
+yay -S libpython
+exit
+obs
+exit
+obs
+python --version
+obs-studio
+exit
+shutdown now
+yay -S discord
+yay -S obs-studio
+obs
+sudo pacman -Syu
+yay -R jre17-openjdk
+yay -R jdk17-openjdk
+yay -R jre17-openjdk
+sudo pacman -Syu
+yay -R linux65-nvidia
+sudo pacman -Syu
+alacritty
+yay -S linux65-nvidia
+nvidia-smi
+obs
+yay -S nvidia
+alacritty
+nvidia-smi
+kitty
+yay -S opengl
+yay -S OpenGl
+clear
+sudo pacman -Syu
+nvidia-smi
+obs
+nix-shell -p obs
+nix-shell
+bash
+exit
+nix-shell -p
+cd ..
+ls
+cd /
+ls
+cd ~/.config
+ls
+git status
+exit
+sudo systemctl status msssql-server
+sudo systemctl status mssql-server
+yay -S mssql-cli
+exit
+yay -S dbeaver
+clear
+exit
+ls
+yay -S dbeaver
+yay -S mssql-server
+ping google.com
+clear
+sudo pacman -Sy
+yay -S dbeaver
+yay -S mssql-server
+sudo systemctl start mssql-server
+sudo systemctl status mssql-server
+sudo systemctl enable mssql-server
+sudo systemctl start mssql-server
+sudo systemctl status mssql-server
+sudo /opt/mssql/bin/mssql-conf setup
+sudo systemctl status mssql-server
+sudo systemctl start mssql-server
+sudo systemctl status mssql-server
+dotnet --version
+bash
+yay -S dotnet-sdk-bin
+ls
+clear
+ls
+clear
+exit
+dotnet
+clear
+nuget
+yay -S nuget
+nuget
+cleare
+dotnet tool update --global dotnet-ef
+nvim ~/.config/nvim
+ls
+clear
+dotnet tool update --global dotnet-ef
+cd Documents/GitHub/MiniProject/
+cd Matrimony/
+ls
+cd MatrimonyApiService/
+ls
+ef-core
+clear
+dotnet ef
+cat /home/sugan/.dotnet/tools
+ls /home/sugan/.dotnet/tools
+/home/sugan/.dotnet/tools/dotnet-ef
+dotnet ef
+dotnet-ef
+exit
+nu
+bash
+exit
+dotnet ef
+exit
+exit
+ls
+cd ~/.config
+la
+cd..
+cd ..
+ls
+bash
+exit
+nvim .bashrc
+zsh
+clear
+exit
+exit
+dotnet ef
+exit
+tmuxifier
+tmuxifier -l
+yay -S tmux
+tmux
+tmuxifier
+nix-shell -p tmux
+yay -S nix-shell
+neofetch
+pfetch
+exit
+yay -S nix
+nix-shell
+yay -
+yay -S gcc
+nix-shell
+sudo nix-shell
+exit
+nix-shell
+exit
+nvim ~/.config/nushell/
+exit
+exit
+nvim default.nix
+exit
+opengl
+clear
+obs
+yay -S obs-studio
+obs
+clear
+ls
+clear
+exit
+nix-shell
+sudo nix-shell
+exit
+exit
+yay -S fzf
+clear
+fzf 
+tmux
+yay -S ncurses
+yay -S lib32-ncurses
+yay -S ncurses
+tmux
+clear
+ls
+exit
+tmux
+ls
+yay -S libsodium
+exit
+tmux
+pacman -Ss libsoidum
+yay -Ss libsodium
+clear
+bash
+zsh
+shell
+exit
+bash
+exit
+tmux
+tmuxifier
+tmuxifier l\
+tmuxifier ll
+tmuxifier l
+tmuxifier campus-sync
+tmuxifier s campus-sync
+tmuxifier ns campus-sync
+tmuxifier ls
+tmuxifier s campus-sync
+exit
+screen
+exit
+yay -S discord
+exit
+ls
+cd Documents/GitHub/MiniProject/
+cd ..
+ls
+cd tasks/
+ls
+cd ..
+cd MiniProject/
+cd Matrimony/
+cd MatrimonyApiService/
+yay -S lazygit
+clear
+exit
+nix-shell
+sudo nix-shell
+yay -R nix
+yay -R nix-shell
+yay -S nix
+nix
+nix-shell
+sudo nix-shell
+exit
+rm default.nix
+sudo nix-shell
+sudo nix-shell --run
+exit
+nix-shell -p lolcat
+sudo nix-shell -p lolcat
+ls
+yay -S nixpkgs
+nix-shell
+sudo nix-shell -p
+yay -R nix
+yay -S nix
+sudo nix-shell -p
+yay -R nix
+nix-shell
+sudo nix-shell
+clear
+ls
+clear
+yay -S nix
+sudo systemctl enable nix-daemon.service
+sudo systemctl enable nix-daemon.servi
+sudo systemctl status nix-daemon.service
+sudo systemctl start nix-daemon.service
+sudo systemctl status nix-daemon.service
+groups user
+id user
+groups sugan
+cat /etc/groups
+id sugan
+groupadd nix-users
+gpasswd -a sugan nix-users
+sudo gpasswd -a sugan nix-users
+nix-shell
+exit
+nix-channel
+nix-channel --list
+nix-channel --add https://nixos.org/channels/nixpkgs-unstable
+nix-channel --update
+sudo nix-channel --update
+sudo nix-shell -p
+clear
+sudo nix-channel --update
+nix-env
+nix-shell -p cowsay lolcat<\n>
+sudo nix-shell -p cowsay lolcat<\n>
+nix
+nix shell
+clear
+shutdown now
+xrandr --output DP-2 --brightness .6
+exit
+nix
+nix shell
+nix build
+nix develop
+nix develop --extra-experimental-features nix-command
+nix shell --extra-experimental-features nix-command
+nix --version
+curl -L https://nixos.org/nix/install | sh -s -- --daemon
+yay -R nix
+curl -L https://nixos.org/nix/install | sh -s -- --daemon
+nix
+sudo systemctl status nix-daemon.service
+sudo systemctl stop nix-daemon.service
+sudo systemctl remove nix-daemon.service
+sudo systemctl status nix-daemon.service
+curl -L https://nixos.org/nix/install | sh -s -- --daemon
+groupdel nix-users
+sudo groupdel nix-users
+curl -L https://nixos.org/nix/install | sh -s -- --daemon
+yay -S tty
+sudo reboot now
+curl -L https://nixos.org/nix/install | sh -s -- --daemon
+sudo groupdel nixbld
+groups user
+groups sugan
+groups
+id user
+id sugan
+cat /etc/group
+ls /nix
+sudo rm -rf /nix
+ls
+sh <(curl -L https://nixos.org/nix/install) --daemon
+curl -L https://nixos.org/nix/install | sh -s -- --daemon
+sudo systemctl daemon-reload
+sudo systemctl status nix-daemon.service
+sudo rm -rf /etc/nix /etc/profile.d/nix.sh /etc/tmpfiles.d/nix-daemon.conf /nix ~root/.nix-channels ~root/.nix-defexpr ~root/.nix-profile<\n>
+for i in $(seq 1 32); do<\n>  sudo userdel nixbld$i<\n>done<\n>sudo groupdel nixbld<\n>
+bash
+mkdir test
+cd test
+nvim nix-del.bash
+cd test
+ls
+nvim nix-del.bash
+curl -L https://nixos.org/nix/install | sh -s -- --daemon
+cd /
+ranger
+cd ~
+nix-shell -p nix-info --run "nix-info -m"
+bash
+nvim .bashrc
+nvim /etc/bashrc
+clear
+nix-shell -p
+exit
+nix-shell -p
+exit
